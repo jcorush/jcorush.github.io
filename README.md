@@ -1,4 +1,7 @@
-#Joel Corush
-##Evolutionary ichthyologist
-###Illinois Natural History Survey 
+# Joel Corush
 
+## Evolutionary ichthyologist
+
+### Illinois Natural History Survey 
+
+### University of illinois
