@@ -1,7 +1,4 @@
 # Joel Corush
-
 ## Evolutionary ichthyologist
-
 ### Illinois Natural History Survey 
-
-### University of illinois
+### University of Illinois Urbana-Champaign
