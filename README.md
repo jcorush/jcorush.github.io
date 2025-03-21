@@ -7,5 +7,5 @@
 #### https://scholar.google.com/citations?user=Xh3zefgAAAAJ&hl=en&oi=ao
 ####<div class="box2" onclick="(https://scholar.google.com/citations?user=Xh3zefgAAAAJ&hl=en&oi=ao)"> About Me</div>
 <div class="box2" onclick="aboutme.html'"> About Me</div>
-<div class="box2" onclick="scholar.google.com/citations?user=Xh3zefgAAAAJ&hl=en&oi=ao.html'"> About Me</div>
+<div class="box2" onclick="scholar.google.com/citations?user=Xh3zefgAAAAJ&hl=en&oi=ao.html'"> For a lit of publications see my Google Scholar page</div>
 
