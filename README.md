@@ -11,8 +11,14 @@
 For a full list of piblications see my <a href="https://scholar.google.com/citations?user=Xh3zefgAAAAJ&hl=en&oi=ao.html" title="Google Scholar page">Google Scholar page</a>
 
 
-{
-    "name": "Your tab name",
-    "content_type": "markdown"
-  }
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        ...
+    </head>
+    <body>
+        {{ content }}
+        <script src="/assets/js/tabs.js"></script>
+    </body>
+</html>
   
