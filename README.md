@@ -7,7 +7,7 @@
 ### email: jcorus2 @ Illinois . edu
 ## Research:
 #### I utilize a combination of populations genetics, phylogenetic comparative methods, and natural history to understand trait evolution in fishes. I focus on how different life history traits lead to variation in patterns of hybridization, population connectivity, and migration patterns.
-![Alt text](images/example.png)
+
 
 ## Publication:
 For a full list of piblications see my <a href="https://scholar.google.com/citations?user=Xh3zefgAAAAJ&hl=en&oi=ao.html" title="Google Scholar page">Google Scholar page</a>
@@ -64,3 +64,7 @@ hello:
 {% endtab %}
 
 {% endtabs %}
+
+
+![Alt text](images/example.png)
+
