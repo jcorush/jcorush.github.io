@@ -17,54 +17,6 @@
 #### Corush, J. B., Fitzpatrick, B. M., Wolfe, E. L., & Keck, B. P. (2021). Breeding behaviour predicts patterns of natural hybridization in North American minnows (Cyprinidae). Journal of Evolutionary Biology, 34(3), 486-500.
 #### Corush, J. B. (2019). Evolutionary patterns of diadromy in fishes: more than a transitional state between marine and freshwater. BMC Evolutionary Biology, 19(1), 168.
 #### Fitzpatrick, B. M., Ryan, M. E., Johnson, J. R., Corush, J., & Carter, E. T. (2015). Hybridization and the species problem in conservation. Current Zoology, 61(1), 206-216.
-
-
+##
+##
 ### First tabs
-
-{% tabs log %}
-
-{% tab log php %}
-```php
-var_dump('hello');
-```
-{% endtab %}
-
-{% tab log js %}
-```javascript
-console.log('hello');
-```
-{% endtab %}
-
-{% tab log ruby %}
-```javascript
-pputs 'hello'
-```
-{% endtab %}
-
-{% endtabs %}
-
-### Second tabs
-
-{% tabs data-struct %}
-
-{% tab data-struct yaml %}
-```yaml
-hello:
-  - 'whatsup'
-  - 'hi'
-```
-{% endtab %}
-
-{% tab data-struct json %}
-```json
-{
-    "hello": ["whatsup", "hi"]
-}
-```
-{% endtab %}
-
-{% endtabs %}
-
-
-![Alt text](images/example.png)
-
