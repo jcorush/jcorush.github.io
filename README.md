@@ -7,8 +7,8 @@
 ### email: jcorus2 @ Illinois . edu
 ## Research:
 #### I utilize a combination of populations genetics, phylogenetic comparative methods, and natural history to understand trait evolution in fishes. I focus on how different life history traits lead to variation in patterns of hybridization, population connectivity, and migration patterns.
-
-
+##
+##
 ## Publication:
 For a full list of piblications see my <a href="https://scholar.google.com/citations?user=Xh3zefgAAAAJ&hl=en&oi=ao.html" title="Google Scholar page">Google Scholar page</a>
 #### Corush, J. B., Cucalón, R. V., Metzke, B. A., Tan, M., & Davis, M. A. (2025). Pleistocene glaciation and Anthropocene fragmentation influence genetic variation in the Illinois state–listed mottled sculpin (Cottus bairdii). Environmental Biology of Fishes, 1-18.
