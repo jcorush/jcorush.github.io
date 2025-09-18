@@ -1,8 +1,8 @@
 # Joel Corush
 ## Assistant professor 
 ## Evolutionary ichthyologist
-#### Biology Department
-#### Illinois Institute of Technology
+#### Biology Department <br>Illinois Institute of Technology
+#### 
 #### Robert A. Pritzker Science Center
 #### 3105 South Dearborn Street, Room 182
 #### Chicago, IL 60616
