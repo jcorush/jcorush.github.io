@@ -1,7 +1,7 @@
 # Joel Corush
 ## Assistant professor 
 ## Evolutionary ichthyologist
-#### Biology Department <br>Illinois Institute of Technology<br>Robert A. Pritzker Science Center<br>Robert A. Pritzker Science Center<br>3105 South Dearborn Street, Room 182<br>Chicago, IL 60616
+#### Biology Department <br>Illinois Institute of Technology<br>Robert A. Pritzker Science Center<br>3105 South Dearborn Street, Room 182<br>Chicago, IL 60616
 #### email: jcorus2 @ Illinois . edu
 ## Research:
 #### I utilize a combination of populations genetics, phylogenetic comparative methods, and natural history to understand trait evolution in fishes. I focus on how different life history traits lead to variation in patterns of hybridization, population connectivity, and migration patterns.
