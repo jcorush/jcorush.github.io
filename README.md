@@ -16,6 +16,8 @@
 #### Corush, J. B. (2019). Evolutionary patterns of diadromy in fishes: more than a transitional state between marine and freshwater. BMC Evolutionary Biology, 19(1), 168.
 #### Fitzpatrick, B. M., Ryan, M. E., Johnson, J. R., Corush, J., & Carter, E. T. (2015). Hybridization and the species problem in conservation. Current Zoology, 61(1), 206-216.
 
+
+
 ## interested in persuing a Ph.D in my lab? <br> 
-### I am Looking for Ph.D. students starting Fall 2026! <br>I am open students interested in a wide range of topic related to evolutionary biology, fish trait evolution, comparative phylogenetics, and population genetics. My lab uses a combination of molecular, analytical, and natural history methods. Some of the systems my new lab at IIT focus on include: <br> 1) hybridization and breading behavior evolution in North American minnows, <br> 2) biogeography and amphibius behavior evolution in Mudskippers, <br> 3) invasive round goby population dynamics in the great lakes region. <br>If you are interested in these topics, or other topics related to my previously published papers, please reach out to me with a brief description of your interest and a CV. 
+### I am Looking for Ph.D. students starting Fall 2026! <br>I am open to students interested in a wide range of topic related to evolutionary biology, fish trait evolution, comparative phylogenetics, and population genetics. My lab uses a combination of molecular, analytical, and natural history methods. Some of the systems my new lab at IIT focus on include: <br> 1) hybridization and breading behavior evolution in North American minnows, <br> 2) biogeography and amphibius behavior evolution in Mudskippers, <br> 3) invasive round goby population dynamics in the great lakes region. <br>If you are interested in these topics, or other topics related to my previously published papers, please reach out to me with a brief description of your interest and a CV. 
 
