@@ -1,10 +1,9 @@
 # Joel Corush
-## Assistant professor 
-## Evolutionary ichthyologist
+## Assistant professor <br>Evolutionary ichthyologist
 #### Biology Department <br>Illinois Institute of Technology<br>Robert A. Pritzker Science Center<br>3105 South Dearborn Street, Room 182<br>Chicago, IL 60616
 #### email: jcorush @ Illinoistech . edu
 ## Research:
-#### I utilize a combination of populations genetics, phylogenetic comparative methods, and natural history to understand trait evolution in fishes. I focus on how different life history traits lead to variation in patterns of hybridization, population connectivity, and migration patterns.
+#### I utilize a combination of populations genetics, phylogenetic comparative methods, and natural history to understand trait evolution in fishes. I focus on how different life history traits lead to variation in patterns of hybridization, population connectivity, and migration patterns. Two major lines of research in my lab inclued the evolution of breeding behavior in North American minnows and biogrography and lifehistory evolution in Indo-Pacific mudskippers. 
 
 ## Publication:
 #### For a full list of piblications see my <a href="https://scholar.google.com/citations?user=Xh3zefgAAAAJ&hl=en&oi=ao.html" title="Google Scholar page">Google Scholar page</a>
@@ -19,5 +18,6 @@
 <br>
 <br>
 
-## Interested in persuing a Ph.D in my lab? <br> ### I am Looking for Ph.D. students to join my lab at IIT starting Fall 2026! <br>I am open to students interested in a wide range of topic related to evolutionary biology, fish trait evolution, comparative phylogenetics, and population genetics. My lab uses a combination of molecular, analytical, and natural history methods. Some of the systems my lab will focus on include: <br> 1) hybridization and breading behavior evolution in North American minnows, <br> 2) biogeography and amphibious behavior evolution in Mudskippers, <br> 3) invasive round goby population dynamics in the great lakes region. <br>If you are interested in these topics, or other topics related to my previously published papers, please reach out to me with a brief description of your interest and a CV. 
+## Interested in persuing a Ph.D in my lab? <br> 
+### I am Looking for Ph.D. students to join my lab at IIT starting Fall 2026! <br>I am open to students interested in a wide range of topic related to evolutionary biology, fish trait evolution, comparative phylogenetics, and population genetics. My lab uses a combination of molecular, analytical, and natural history methods. Some of the systems my lab will focus on include: <br> 1) hybridization and breading behavior evolution in North American minnows, <br> 2) biogeography and amphibious behavior evolution in Mudskippers, <br> 3) invasive round goby population dynamics in the great lakes region. <br>If you are interested in these topics, or other topics related to my previously published papers, please reach out to me with a brief description of your interest and a CV. 
 
