@@ -3,7 +3,7 @@
 #### Biology Department <br>Illinois Institute of Technology<br>Robert A. Pritzker Science Center<br>3105 South Dearborn Street, Room 182<br>Chicago, IL 60616
 #### email: jcorush @ Illinoistech . edu
 ## Research:
-#### I utilize a combination of populations genetics, phylogenetic comparative methods, and natural history to understand trait evolution in fishes. I focus on how different life history traits lead to variation in patterns of hybridization, population connectivity, and migration patterns. Two major lines of research in my lab inclued the evolution of breeding behavior in North American minnows and biogrography and lifehistory evolution in Indo-Pacific mudskippers. 
+#### I use a combination of population genetics, phylogenetic comparative methods, and natural history to investigate trait evolution in fishes. My research focuses on how life history traits—such as breeding behavior and migration patterns—contribute to variation in hybridization rates, population connectivity, or movement across landscapes. Two major lines of research in my lab include: (1) the evolution of breeding behavior in North American minnows, and (2) biogeography and life history evolution in Indo-Pacific mudskippers.
 
 ## Publication:
 #### For a full list of piblications see my <a href="https://scholar.google.com/citations?user=Xh3zefgAAAAJ&hl=en&oi=ao.html" title="Google Scholar page">Google Scholar page</a>
