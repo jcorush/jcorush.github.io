@@ -1,5 +1,5 @@
 # Joel Corush 
-# git add images/aaaGarphoto.jpeg
+git add images/aaaGarphoto.jpeg
 ## Assistant Professor <br>Evolutionary Ichthyologist
 #### Biology Department <br>Illinois Institute of Technology<br>Robert A. Pritzker Science Center<br>3105 South Dearborn Street, Room 182<br>Chicago, IL 60616
 #### email: jcorush @ Illinoistech . edu
