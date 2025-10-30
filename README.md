@@ -37,25 +37,30 @@
 <div class="two-columns">
   <div class="column">
     <h2>Left Column</h2>
-    <p>This is the first column. It will appear on the left on large screens and above the right column on small screens.</p>
+    <p># Joel Corush 
+## Assistant Professor <br>Evolutionary Ichthyologist
+#### Biology Department <br>Illinois Institute of Technology<br>Robert A. Pritzker Science Center<br>3105 South Dearborn Street, Room 182<br>Chicago, IL 60616
+#### email: jcorush @ Illinoistech . edu
+## Research:
+#### I use a combination of population genetics, phylogenetic comparative methods, and natural history to investigate trait evolution in fishes. My research focuses on how life history traits—such as breeding behavior and migration patterns—contribute to variation in hybridization rates, population connectivity, or movement across landscapes. Two major lines of research in my lab include: (1) the evolution of breeding behavior in North American minnows, and (2) biogeography and life history evolution in Indo-Pacific mudskippers.</p>
   </div>
 
   <div class="column">
     <h2>Right Column</h2>
-    <p>This is the second column. It’s flexible and adjusts automatically with the screen size.</p>
+    <p>![Alt text for image](/cover_photo "Optional image title")</p>
   </div>
 </div>
 
 </body>
 </html>
+
 # Joel Corush 
 ## Assistant Professor <br>Evolutionary Ichthyologist
-![Alt text for image](/cover_photo "Optional image title")
 #### Biology Department <br>Illinois Institute of Technology<br>Robert A. Pritzker Science Center<br>3105 South Dearborn Street, Room 182<br>Chicago, IL 60616
 #### email: jcorush @ Illinoistech . edu
 ## Research:
 #### I use a combination of population genetics, phylogenetic comparative methods, and natural history to investigate trait evolution in fishes. My research focuses on how life history traits—such as breeding behavior and migration patterns—contribute to variation in hybridization rates, population connectivity, or movement across landscapes. Two major lines of research in my lab include: (1) the evolution of breeding behavior in North American minnows, and (2) biogeography and life history evolution in Indo-Pacific mudskippers.
-
+![Alt text for image](/cover_photo "Optional image title")
 ## Publication:
 #### For a full list of piblications see my <a href="https://scholar.google.com/citations?user=Xh3zefgAAAAJ&hl=en&oi=ao.html" title="Google Scholar page">Google Scholar page</a>
 #### Select publications: 
