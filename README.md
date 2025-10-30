@@ -1,3 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Two Columns Example</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+
+  .two-columns {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Two equal-width columns */
+    gap: 20px; /* Space between columns */
+  }
+
+  .column {
+    background: #f8f8f8;
+    padding: 20px;
+    border-radius: 8px;
+  }
+
+  /* Responsive: stack on narrow screens */
+  @media (max-width: 700px) {
+    .two-columns {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+</head>
+<body>
+
+<h1>Two Column Layout</h1>
+<div class="two-columns">
+  <div class="column">
+    <h2>Left Column</h2>
+    <p>This is the first column. It will appear on the left on large screens and above the right column on small screens.</p>
+  </div>
+
+  <div class="column">
+    <h2>Right Column</h2>
+    <p>This is the second column. It’s flexible and adjusts automatically with the screen size.</p>
+  </div>
+</div>
+
+</body>
+</html>
 # Joel Corush 
 ## Assistant Professor <br>Evolutionary Ichthyologist
 ![Alt text for image](/cover_photo "Optional image title")
