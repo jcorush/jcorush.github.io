@@ -1,58 +1,25 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Two Columns Example</title>
 <style>
-  body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 20px;
-  }
-
   .two-columns {
-    display: grid;
-    grid-template-columns: 1fr 1fr; /* Two equal-width columns */
-    gap: 20px; /* Space between columns */
+    display: flex;
+    gap: 20px;
   }
-
   .column {
-    background: #f8f8f8;
+    flex: 1;
+    background: #eee;
     padding: 20px;
     border-radius: 8px;
   }
-
-  /* Responsive: stack on narrow screens */
   @media (max-width: 700px) {
     .two-columns {
-      grid-template-columns: 1fr;
+      flex-direction: column;
     }
   }
 </style>
-</head>
-<body>
 
-<h1>Two Column Layout</h1>
 <div class="two-columns">
-  <div class="column">
-    <h2>Left Column</h2>
-    <p># Joel Corush 
-## Assistant Professor <br>Evolutionary Ichthyologist
-#### Biology Department <br>Illinois Institute of Technology<br>Robert A. Pritzker Science Center<br>3105 South Dearborn Street, Room 182<br>Chicago, IL 60616
-#### email: jcorush @ Illinoistech . edu
-## Research:
-#### I use a combination of population genetics, phylogenetic comparative methods, and natural history to investigate trait evolution in fishes. My research focuses on how life history traits—such as breeding behavior and migration patterns—contribute to variation in hybridization rates, population connectivity, or movement across landscapes. Two major lines of research in my lab include: (1) the evolution of breeding behavior in North American minnows, and (2) biogeography and life history evolution in Indo-Pacific mudskippers.</p>
-  </div>
-
-  <div class="column">
-    <h2>Right Column</h2>
-    <p>![Alt text for image](/cover_photo "Optional image title")</p>
-  </div>
+  <div class="column">Left</div>
+  <div class="column">Right</div>
 </div>
-
-</body>
-</html>
 
 # Joel Corush 
 ## Assistant Professor <br>Evolutionary Ichthyologist
