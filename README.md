@@ -2,10 +2,13 @@
   <h2>About</h2>
   <div class="two-columns">
     <div class="column">
-      <p>Left column content — about text, intro, etc.</p>
+      <p># Joel Corush 
+## Assistant Professor <br>Evolutionary Ichthyologist
+#### Biology Department <br>Illinois Institute of Technology<br>Robert A. Pritzker Science Center<br>3105 South Dearborn Street, Room 182<br>Chicago, IL 60616
+#### email: jcorush @ Illinoistech . edu</p>
     </div>
     <div class="column">
-      <p>Right column content — picture, links, sidebar, etc.</p>
+      <p>![Alt text for image](/cover_photo "Optional image title")</p>
     </div>
   </div>
 </section>
