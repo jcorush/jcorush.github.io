@@ -1,3 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Static Site with Multiple Tables</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Table of Products</h1>
+    <table class="product-table">
+        <thead>
+            <tr>
+                <th>Product Name</th>
+                <th>Category</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Laptop</td>
+                <td>Electronics</td>
+                <td>$1200</td>
+            </tr>
+            <tr>
+                <td>Desk Chair</td>
+                <td>Furniture</td>
+                <td>$250</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h1>Table of Customers</h1>
+    <table class="customer-table">
+        <thead>
+            <tr>
+                <th>Customer ID</th>
+                <th>Name</th>
+                <th>Email</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>001</td>
+                <td>Alice Smith</td>
+                <td>alice@example.com</td>
+            </tr>
+            <tr>
+                <td>002</td>
+                <td>Bob Johnson</td>
+                <td>bob@example.com</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
+
+
 <section id="panel-about" class="panel" role="tabpanel" aria-labelledby="tab-about" aria-hidden="true">
   <h2>About</h2>
 
