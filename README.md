@@ -7,7 +7,7 @@
 <br>email: jcorush @ Illinoistech . edu</p>
     </div>
     <div class="column">
-      <p>![Alt text for image](/cover_photo "Optional image title")</p>
+      <p> collection <p>![Alt text for image](/cover_photo "Optional image title")</p>
     </div>
   </div>
 </section>
