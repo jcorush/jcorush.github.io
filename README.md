@@ -11,9 +11,6 @@
       <img src="/cover_photo" alt="Salmon swimming upstream" class="column-image">
     </div>
   </div>
-
-  <h3>Our Approach</h3>
-  <p>After the photo section, we return to normal layout. This part spans the full page width again.</p>
 </section>
 
 
