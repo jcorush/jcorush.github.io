@@ -1,25 +1,14 @@
-<style>
-  .two-columns {
-    display: flex;
-    gap: 20px;
-  }
-  .column {
-    flex: 1;
-    background: #eee;
-    padding: 20px;
-    border-radius: 8px;
-  }
-  @media (max-width: 700px) {
-    .two-columns {
-      flex-direction: column;
-    }
-  }
-</style>
-
-<div class="two-columns">
-  <div class="column">Left</div>
-  <div class="column">Right</div>
-</div>
+<section id="panel-about" class="panel" role="tabpanel" aria-labelledby="tab-about" aria-hidden="true">
+  <h2>About</h2>
+  <div class="two-columns">
+    <div class="column">
+      <p>Left column content — about text, intro, etc.</p>
+    </div>
+    <div class="column">
+      <p>Right column content — picture, links, sidebar, etc.</p>
+    </div>
+  </div>
+</section>
 
 # Joel Corush 
 ## Assistant Professor <br>Evolutionary Ichthyologist
