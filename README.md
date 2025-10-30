@@ -1,43 +1,23 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Two Columns Example</title>
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 20px;
-  }
+<section id="panel-about" class="panel" role="tabpanel" aria-labelledby="tab-about" aria-hidden="true">
+  <h2>About</h2>
 
-  .two-columns {
-    display: grid;
-    grid-template-columns: 1fr 1fr; /* Two equal-width columns */
-    gap: 20px; /* Space between columns */
-  }
+  <div class="two-columns">
+    <div class="column">
+      <p>Assistant Professor <br>Evolutionary Ichthyologist
+<br>Biology Department <br>Illinois Institute of Technology<br>Robert A. Pritzker Science Center<br>3105 South Dearborn Street, Room 182<br>Chicago, IL 60616
+<br>email: jcorush @ Illinoistech . edu</p>
+    </div>
+    <div class="column">
+      <img src="/cover_photo" alt="Salmon swimming upstream" class="column-image">
+    </div>
+  </div>
 
-  .column {
-    background: #f8f8f8;
-    padding: 20px;
-    border-radius: 8px;
-  }
+  <h3>Our Approach</h3>
+  <p>After the photo section, we return to normal layout. This part spans the full page width again.</p>
+</section>
 
-  /* Responsive: stack on narrow screens */
-  @media (max-width: 700px) {
-    .two-columns {
-      grid-template-columns: 1fr;
-    }
-  }
-</style>
-</head>
-<body>
 
-<h1>Two Column Layout</h1>
-<div class="two-columns">
-  <div class="column">
-    <h2>Left Column</h2>
-    <p>Joel Corush <br>Assistant Professor <br>Evolutionary Ichthyologist
+Assistant Professor <br>Evolutionary Ichthyologist
 <br>Biology Department <br>Illinois Institute of Technology<br>Robert A. Pritzker Science Center<br>3105 South Dearborn Street, Room 182<br>Chicago, IL 60616
 <br>email: jcorush @ Illinoistech . edu</p>
   </div>
