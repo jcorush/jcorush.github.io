@@ -19,7 +19,8 @@
 #### email: jcorush @ Illinoistech . edu
 ## Research:
 #### I use a combination of population genetics, phylogenetic comparative methods, and natural history to investigate trait evolution in fishes. My research focuses on how life history traits—such as breeding behavior and migration patterns—contribute to variation in hybridization rates, population connectivity, or movement across landscapes. Two major lines of research in my lab include: (1) the evolution of breeding behavior in North American minnows, and (2) biogeography and life history evolution in Indo-Pacific mudskippers.
-![Alt text for image](/cover_photo "Optional image title")
+![Alt text for image](/cover_photo "Optional image title")| width=100
+
 ## Publication:
 #### For a full list of piblications see my <a href="https://scholar.google.com/citations?user=Xh3zefgAAAAJ&hl=en&oi=ao.html" title="Google Scholar page">Google Scholar page</a>
 #### Select publications: 
