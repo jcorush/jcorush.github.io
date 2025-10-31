@@ -1,4 +1,50 @@
 
+<section id="panel-about" class="panel" role="tabpanel" aria-labelledby="tab-about" aria-hidden="true">
+  <h2>About</h2>
+
+  <div class="two-columns">
+    <div class="column">
+      <p>Joel Corush <br>Assistant Professor <br>Evolutionary Ichthyologist
+<br>Biology Department <br>Illinois Institute of Technology<br>Robert A. Pritzker Science Center<br>3105 South Dearborn Street, Room 182<br>Chicago, IL 60616
+<br>email: jcorush @ Illinoistech . edu</p>
+    </div>
+    <div class="column">
+      <img src="/cover_photo" alt="Salmon swimming upstream" class="column-image">
+    </div>
+  </div>
+</section>
+
+
+Assistant Professor <br>Evolutionary Ichthyologist
+<br>Biology Department <br>Illinois Institute of Technology<br>Robert A. Pritzker Science Center<br>3105 South Dearborn Street, Room 182<br>Chicago, IL 60616
+<br>email: jcorush @ Illinoistech . edu</p>
+  </div>
+
+  <div class="column">
+    <h2>Right Column</h2>
+    <p>![Alt text for image](/cover_photo "Optional image title")</p>
+  </div>
+</div>
+
+</body>
+</html>
+
+
+
+<section id="panel-about" class="panel" role="tabpanel" aria-labelledby="tab-about" aria-hidden="true">
+  <h2>About</h2>
+  <div class="two-columns">
+    <div class="column">
+      <p>Joel Corush <br>Assistant Professor <br>Evolutionary Ichthyologist
+<br>Biology Department <br>Illinois Institute of Technology<br>Robert A. Pritzker Science Center<br>3105 South Dearborn Street, Room 182<br>Chicago, IL 60616
+<br>email: jcorush @ Illinoistech . edu</p>
+    </div>
+    <div class="column">
+      <p> collection <p>![Alt text for image](/cover_photo "Optional image title")</p>
+    </div>
+  </div>
+</section>
+
 
 # Joel Corush 
 ## Assistant Professor <br>Evolutionary Ichthyologist
