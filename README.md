@@ -10,14 +10,47 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.6;
-  max-width: 900px;
+  max-width: 1200px;
   margin: auto;
+  display: flex;
+}
+/* Sidebar for tabs */
+.tab {
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+  border-right: 2px solid #ccc;
+  padding: 20px;
+  box-sizing: border-box;
+}
+.tab button {
+  background-color: inherit;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 10px;
+  margin-bottom: 5px;
+  text-align: left;
+  font-size: 16px;
+}
+.tab button:hover {
+  background-color: #ddd;
+}
+.tab button.active {
+  background-color: #ccc;
+}
+/* Main content */
+.tabcontent {
+  display: none;
+  padding: 20px;
+  width: 75%;
+  box-sizing: border-box;
 }
 .header-section {
   display: flex;
   gap: 20px;
   align-items: flex-start;
-  padding: 20px 0;
+  padding-bottom: 20px;
 }
 .header-text {
   flex: 1;
@@ -40,40 +73,10 @@ h3 small {
   font-weight: normal;
   color: #555;
 }
-.single-column {
-  padding: 20px 0;
-}
-/* Tabs */
-.tab {
-  overflow: hidden;
-  border-bottom: 2px solid #ccc;
-  margin-bottom: 20px;
-}
-.tab button {
-  background-color: inherit;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  padding: 10px 20px;
-  transition: 0.3s;
-  font-size: 16px;
-}
-.tab button:hover {
-  background-color: #ddd;
-}
-.tab button.active {
-  background-color: #ccc;
-}
-.tabcontent {
-  display: none;
-  padding: 10px 0;
-  border-top: none;
-}
 </style>
 </head>
 <body>
 
-<!-- Tabs at the top -->
 <div class="tab">
   <button class="tablinks" onclick="openTab(event,'Education')">Education</button>
   <button class="tablinks" onclick="openTab(event,'Research')">Research</button>
@@ -81,15 +84,17 @@ h3 small {
   <button class="tablinks" onclick="openTab(event,'PhD')">Ph.D Opportunities</button>
 </div>
 
-<section class="header-section">
-  <div class="header-text">
-    <h1>Joel Corush</h1>
-    <h3>Assistant Professor <br>Evolutionary Ichthyologist<br>Biology Department <br>Illinois Institute of Technology<br>Robert A. Pritzker Science Center<br>3105 South Dearborn Street, Room 182<br>Chicago, IL 60616<br>email: jcorush@illinoistech.edu</h3>
-  </div>
-  <div>
-    <img src="cover_photo" alt="Profile Photo" />
-  </div>
-</section>
+<div class="tabcontent">
+  <section class="header-section">
+    <div class="header-text">
+      <h1>Joel Corush</h1>
+      <h3>Assistant Professor <br>Evolutionary Ichthyologist<br>Biology Department <br>Illinois Institute of Technology<br>Robert A. Pritzker Science Center<br>3105 South Dearborn Street, Room 182<br>Chicago, IL 60616<br>email: jcorush@illinoistech.edu</h3>
+    </div>
+    <div>
+      <img src="cover_photo" alt="Profile Photo" />
+    </div>
+  </section>
+</div>
 
 <div id="Education" class="tabcontent">
   <ul>
