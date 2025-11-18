@@ -66,7 +66,7 @@ padding: 20px 0;
 <li>For a full list of piblications see my <a href="https://scholar.google.com/citations?user=Xh3zefgAAAAJ&hl=en&oi=ao.html" title="Google Scholar page">Google Scholar page</a></li>
 <LI>Select publications:</li>
 <ul>
-<li>Corush, J. B., Cucalón, R. V., Metzke, B. A., Tan, M., & Davis, M. A. (2025). Pleistocene glaciation and Anthropocene fragmentation influence genetic variation in the Illinois state–listed mottled sculpin (*Cottus bairdii*). *Environmental Biology of Fishes*, 1-18.</li>
+<li>Corush, J. B., Cucalón, R. V., Metzke, B. A., Tan, M., & Davis, M. A. (2025). Pleistocene glaciation and Anthropocene fragmentation influence genetic variation in the Illinois state–listed mottled sculpin (*Cottus bairdii*). _Environmental Biology of Fishes_, 1-18.</li>
 <li>Corush, J. B. (2024). Nest-Associating Minnows Prefer Occupying Longear Sunfish Nests Over Green Sunfish Nests. *Northeastern Naturalist*, 31(4), 479-487.</li>
 <li>Cucalón, R. V., Corush, J. B., Niemiller, M. L., Curtis, A. N., Hart, P. B., Kuhajda, B. R., ... & Tan, M. (2024). Population genomics and mitochondrial DNA reveal cryptic diversity in North American Spring Cavefishes (Amblyopsidae, *Forbesichthys*). *Conservation Genetics*, 25(6), 1283-1301.</li>
 <li>Corush, J. B., Pierson, T. W., Shiao, J. C., Katayama, Y., Zhang, J., & Fitzpatrick, B. M. (2022). Amphibious mudskipper populations are genetically connected along coastlines, but differentiated across water. *Journal of Biogeography*, 49(4), 767-779.</li>
