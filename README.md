@@ -126,12 +126,13 @@ body {
 <div id="People" class="tabcontent">
   <p>Current lab members: </p>
   <ul>
-    <li>P.R. (Masters Student) </li>
+    <li>P.R. - Masters Student </li>
      <ul>
          <li>P.R. Joined the lab in fall 2025. </li>
      </ul>  
   </ul>
 </div>
+
 <div id="PhD" class="tabcontent">
   <p>I am recruting a Ph.D. (or Masters-to-Ph.D.) students to join my lab in Illinois Institute of Technology's Biology department starting Fall 2026!</p>
    <br><br>
