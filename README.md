@@ -70,6 +70,7 @@ body {
   <button class="tablinks" onclick="openTab(event,'About me')">About me</button>
   <button class="tablinks" onclick="openTab(event,'Research')">Research</button>
   <button class="tablinks" onclick="openTab(event,'Publications')">Publications</button>
+  <button class="tablinks" onclick="openTab(event,'People')">People</button>
   <button class="tablinks" onclick="openTab(event,'PhD')">Ph.D Opportunities</button>
   <button class="tablinks" onclick="openTab(event,'Teaching')">Teaching</button>
 
@@ -108,6 +109,15 @@ body {
   </ul>
 </div>
 
+<div id="Publications" class="tabcontent">
+  <p>Current lab members: </p>
+  <ul>
+    <li>P.R. </li>
+     <ul>
+         <li>P.R. is interested in birds </li>
+     </ul>  
+  </ul>
+</div>
 <div id="PhD" class="tabcontent">
   <p>I am looking for Ph.D. students to join my lab at IIT starting Fall 2026!<br>
   I am open to students interested in a wide range of topics related to evolutionary biology, fish trait evolution, comparative phylogenetics, and population genetics. My lab uses a combination of molecular, analytical, and natural history methods. Some of the systems my lab will focus on include:<br>
@@ -129,6 +139,7 @@ body {
     <li>-Conservation of ‘extinct’ species (IB546) - graduate seminar. </li>
   </ul>
 </div>
+
 <script>
 function openTab(evt, tabName) {
   var i, tabcontent, tablinks;
