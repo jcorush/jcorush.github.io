@@ -56,8 +56,10 @@ padding: 20px 0;
 </div>
 </section>
 
-
 <section class="single-column">
+
+<li>Ph.D. Evology and evolutionary biology - University of Tennessee - Knoxville </li>
+<li>B.A. Biology - Drake University </li>
 
 <h2>Research:</h2> 
 <li> I use population genetics, phylogenetic comparative methods, and natural history to study trait evolution in fishes. My research focuses on how life-history traits—such as breeding behavior and migration patterns—shape population connectivity, movement across landscapes, and hybridization rates. I then explore how these traits evolved. Two major lines of research in my lab are: (1) the evolution of breeding behavior in North American minnows, and (2) the biogeography and life-history evolution of Indo-Pacific mudskippers.</li>
