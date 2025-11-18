@@ -1,3 +1,69 @@
+<!DOCTYPE html>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>My Academic Site</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+line-height: 1.6;
+max-width: 900px;
+margin: auto;
+}
+.two-column {
+display: grid;
+grid-template-columns: 1fr 1fr;
+gap: 20px;
+align-items: center;
+padding: 20px 0;
+}
+img {
+width: 100%;
+height: auto;
+border-radius: 8px;
+}
+h1 {
+margin-bottom: 0;
+}
+h2 {
+margin-top: 5px;
+font-weight: normal;
+color: #555;
+}
+.single-column {
+padding: 20px 0;
+}
+</style>
+</head>
+<body>
+
+
+<section class="two-column">
+<div>
+<h1>Your Name</h1>
+<h2>Your Title / Position</h2>
+</div>
+
+
+<div>
+<img src="your-photo.jpg" alt="Profile Photo" />
+</div>
+</section>
+
+
+<section class="single-column">
+<h2>Publications</h2>
+<ul>
+<li>Publication One, Year, Journal</li>
+<li>Publication Two, Year, Journal</li>
+<li>Publication Three, Year, Journal</li>
+</ul>
+</section>
+
+
+</body>
+</html>
 
 <section id="panel-about" class="panel" role="tabpanel" aria-labelledby="tab-about" aria-hidden="true">
   <h2>About</h2>
