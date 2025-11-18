@@ -133,12 +133,15 @@ body {
   </ul>
 </div>
 <div id="PhD" class="tabcontent">
-  <p>I am looking for Ph.D. students to join my lab at IIT starting Fall 2026!<br>
-  I am open to students interested in a wide range of topics related to evolutionary biology, fish trait evolution, comparative phylogenetics, and population genetics. My lab uses a combination of molecular, analytical, and natural history methods. Some of the systems my lab will focus on include:<br>
+  <p>I am recruting a Ph.D. (or Masters-to-Ph.D.) students to join my lab in Illinois Institute of Technology's Biology department starting Fall 2026!</p>
+   <br><br>
+  <p>I am open to students interested in a wide range of topics related to evolutionary biology, fish trait evolution, comparative phylogenetic methods, and population genetics. My lab uses a combination of molecular, analytical, and natural history methods. Some of the systems my lab  focus on include:<br>
   1) Hybridization and breeding behavior evolution in North American minnows,<br>
   2) Biogeography and amphibious behavior evolution in mudskippers,<br>
-  3) Invasive round goby population dynamics in the Great Lakes region.<br>
-  If you are interested in these topics (in fishes or other organisms), or in topics related to my previously published papers, please reach out with a brief description of your interests and a CV.</p>
+  3) Invasive round goby population dynamics in the Great Lakes region.<br></p>
+    <br><br>
+  <p>IIT is in the heart of Chicago and the historic Bronzeville neighborhood. The Biology department is located a short walk from L stops on the Red and Green lines.  My lab also has an affilieation with the Field Museums allowing access to collection and molecaulr lab space.</p>  
+  <p>If you are interested in the above topics (in fishes or other organisms), or in topics related to my previously published papers, please reach out with a brief description of your interests and a CV.</p>
 </div>
 
 <div id="Teaching" class="tabcontent">
@@ -151,6 +154,7 @@ body {
   <li>University Of Illinois6</li>
   <ul>
     <li>-Conservation of ‘extinct’ species (IB546) - graduate seminar. </li>
+    <li>--Phylogenetic Comparative Methods (IB546) - graduate seminar. (co-instructer) </li>
   </ul>
 </div>
 
