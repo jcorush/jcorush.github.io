@@ -1,7 +1,3 @@
----
-title: ""
-layout: none
----
 
 <!DOCTYPE html>
 <meta charset="UTF-8" />
