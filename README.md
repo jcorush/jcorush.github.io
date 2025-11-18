@@ -67,8 +67,7 @@ body {
     <img src="cover_photo" alt="Profile Photo" />
     <h1>Joel Corush</h1>
   </div>
-  <button class="tablinks" onclick="openTab(event,'Home')">Home</button>
-  <button class="tablinks" onclick="openTab(event,'Education')">Education</button>
+  <button class="tablinks" onclick="openTab(event,'About me')">Home</button>
   <button class="tablinks" onclick="openTab(event,'Research')">Research</button>
   <button class="tablinks" onclick="openTab(event,'Publications')">Publications</button>
   <button class="tablinks" onclick="openTab(event,'PhD')">Ph.D Opportunities</button>
@@ -76,12 +75,12 @@ body {
 
 <div class="main-content">
 
-<div id="Home" class="tabcontent">
-  <h3>Assistant Professor <br>Evolutionary Ichthyologist<br>Biology Department <br>Illinois Institute of Technology<br>Robert A. Pritzker Science Center<br>3105 South Dearborn Street, Room 182<br>Chicago, IL 60616<br>email: jcorush@illinoistech.edu</h3>
-</div>
-
-<div id="Education" class="tabcontent">
+<div id="About me" class="tabcontent">
+  <h3>Joel Corush </h3>
+    <h2>Assistant Professor <br>Evolutionary Ichthyologist<br>Biology Department <br>Illinois Institute of Technology<br>Robert A. Pritzker Science Center<br>3105 South Dearborn Street, Room 182<br>Chicago, IL 60616<br>email: jcorush@illinoistech.edu</h2>
+  <br><br>
   <ul>
+    <h3>Education</h3>
     <li>Postdoc - Illinois Natural History Survey at University of Illinois at Urbana-Champaign</li>
     <li>Postdoc - Wayne State University</li>
     <li>Ph.D. - Ecology and Evolutionary Biology - University of Tennessee - Knoxville</li>
@@ -132,6 +131,3 @@ function openTab(evt, tabName) {
 }
 document.getElementsByClassName("tablinks")[0].click();
 </script>
-
-</body>
-</html>
