@@ -33,15 +33,13 @@ color: #555;
 .single-column {
 padding: 20px 0;
 }
-</style>
+</style="list-style-type: none; padding-left: 0;">
 </head>
 <body>
-
 
 <section class="two-column">
 <div>
 <h1>Joel Corush</h1>
- <ul style="list-style-type: none; padding-left: 0;">
 <li>Assistant Professor <br>Evolutionary Ichthyologist
 <br>Biology Department <br>Illinois Institute of Technology<br>Robert A. Pritzker Science Center<br>3105 South Dearborn Street, Room 182<br>Chicago, IL 60616
 <br>email: jcorush @ Illinoistech . edu</li>
@@ -58,7 +56,7 @@ padding: 20px 0;
 
 <h2>Research:</h2> 
 <li>   I use a combination of population genetics, phylogenetic comparative methods, and natural history to investigate trait evolution in fishes. My research focuses on how life history traits—such as breeding behavior and migration patterns—contribute to variation in hybridization rates, population connectivity, or movement across landscapes. Two major lines of research in my lab include: (1) the evolution of breeding behavior in North American minnows, and (2) biogeography and life history evolution in Indo-Pacific mudskippers.</li>
-
+<br><br>
 <h2>Publications</h2>
 <li>For a full list of piblications see my <a href="https://scholar.google.com/citations?user=Xh3zefgAAAAJ&hl=en&oi=ao.html" title="Google Scholar page">Google Scholar page</a></li>
  <LI>Select publications:
@@ -71,5 +69,6 @@ padding: 20px 0;
 <li>Corush, J. B. (2019). Evolutionary patterns of diadromy in fishes: more than a transitional state between marine and freshwater. BMC Evolutionary Biology, 19(1), 168.</li>
 <li>Fitzpatrick, B. M., Ryan, M. E., Johnson, J. R., Corush, J., & Carter, E. T. (2015). Hybridization and the species problem in conservation. Current Zoology, 61(1), 206-216.</li>
 <br><br>
+   
 <h2>Interested in persuing a Ph.D in my lab?</h2>
 <li>I am Looking for Ph.D. students to join my lab at IIT starting Fall 2026! <br>I am open to students interested in a wide range of topic related to evolutionary biology, fish trait evolution, comparative phylogenetics, and population genetics. My lab uses a combination of molecular, analytical, and natural history methods. Some of the systems my lab will focus on include: <br> 1) hybridization and breeding behavior evolution in North American minnows, <br> 2) biogeography and amphibious behavior evolution in Mudskippers, <br> 3) invasive round goby population dynamics in the great lakes region. <br>If you are interested in these topics (in fishes or other organisums), or other topics related to my previously published papers, please reach out to me with a brief description of your interest and a CV. <li>
