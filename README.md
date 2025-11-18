@@ -128,7 +128,7 @@ body {
   <ul>
     <li>P.R. (Masters Student) </li>
      <ul>
-         <li>P.R. Joined the lab in fall 2025. She is interested in birds. </li>
+         <li>P.R. Joined the lab in fall 2025. </li>
      </ul>  
   </ul>
 </div>
