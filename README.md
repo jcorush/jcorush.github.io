@@ -40,8 +40,10 @@ padding: 20px 0;
 
 <section class="two-column">
 <div>
-<h1>Your Name</h1>
-<h2>Your Title / Position</h2>
+<h1>Joel Corush</h1>
+<h2>Assistant Professor <br>Evolutionary Ichthyologist
+<br>Biology Department <br>Illinois Institute of Technology<br>Robert A. Pritzker Science Center<br>3105 South Dearborn Street, Room 182<br>Chicago, IL 60616
+<br>email: jcorush @ Illinoistech . edu</h2>
 </div>
 
 
