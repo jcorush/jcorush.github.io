@@ -117,6 +117,18 @@ body {
   If you are interested in these topics (in fishes or other organisms), or in topics related to my previously published papers, please reach out with a brief description of your interests and a CV.</p>
 </div>
 
+<div id="Teaching" class="tabcontent">
+  <p>Teaching <br>
+    <li> Illinois Institute of Technology</li>
+  <ul>
+    <li>Molecular Biology ((BIOL 515) - Fall 2025</li>
+    <li>Urban Evology ((BIOL 200) - Spring 2026</li>
+  </ul> 
+  <li>University Of Illinois6</li>
+  <ul>
+    <li>-Conservation of ‘extinct’ species (IB546) - graduate seminar. </li>
+  </ul>
+</div>
 <script>
 function openTab(evt, tabName) {
   var i, tabcontent, tablinks;
