@@ -69,9 +69,6 @@ padding: 20px 0;
 <li>Corush, J. B., Fitzpatrick, B. M., Wolfe, E. L., & Keck, B. P. (2021). Breeding behaviour predicts patterns of natural hybridization in North American minnows (Cyprinidae). Journal of Evolutionary Biology, 34(3), 486-500.</li>
 <li>Corush, J. B. (2019). Evolutionary patterns of diadromy in fishes: more than a transitional state between marine and freshwater. BMC Evolutionary Biology, 19(1), 168.</li>
 <li>Fitzpatrick, B. M., Ryan, M. E., Johnson, J. R., Corush, J., & Carter, E. T. (2015). Hybridization and the species problem in conservation. Current Zoology, 61(1), 206-216.</li>
-
-
+<br><br>
 <h2>Interested in persuing a Ph.D in my lab?</h2>
 <li>I am Looking for Ph.D. students to join my lab at IIT starting Fall 2026! <br>I am open to students interested in a wide range of topic related to evolutionary biology, fish trait evolution, comparative phylogenetics, and population genetics. My lab uses a combination of molecular, analytical, and natural history methods. Some of the systems my lab will focus on include: <br> 1) hybridization and breeding behavior evolution in North American minnows, <br> 2) biogeography and amphibious behavior evolution in Mudskippers, <br> 3) invasive round goby population dynamics in the great lakes region. <br>If you are interested in these topics (in fishes or other organisums), or other topics related to my previously published papers, please reach out to me with a brief description of your interest and a CV. <li>
-
-</ul>
