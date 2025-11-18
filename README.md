@@ -60,7 +60,7 @@ padding: 20px 0;
 <section class="single-column">
 
 <h2>Research:</h2> 
-<li>   I use a combination of population genetics, phylogenetic comparative methods, and natural history to investigate trait evolution in fishes. My research focuses on how life history traits—such as breeding behavior and migration patterns—contribute to variation in hybridization rates, population connectivity, or movement across landscapes. Two major lines of research in my lab include: (1) the evolution of breeding behavior in North American minnows, and (2) biogeography and life history evolution in Indo-Pacific mudskippers.</li>
+<li> I use population genetics, phylogenetic comparative methods, and natural history to study trait evolution in fishes. My research focuses on how life-history traits—such as breeding behavior and migration patterns—shape population connectivity, movement across landscapes, and hybridization rates. I then explore how these traits evolved. Two major lines of research in my lab are: (1) the evolution of breeding behavior in North American minnows, and (2) the biogeography and life-history evolution of Indo-Pacific mudskippers.</li>
 <br><br>
 <h2>Publications</h2>
 <li>For a full list of piblications see my <a href="https://scholar.google.com/citations?user=Xh3zefgAAAAJ&hl=en&oi=ao.html" title="Google Scholar page">Google Scholar page</a></li>
@@ -76,4 +76,6 @@ padding: 20px 0;
 <br><br>
    
 <h2>Interested in persuing a Ph.D in my lab?</h2>
-<li>I am Looking for Ph.D. students to join my lab at IIT starting Fall 2026! <br>I am open to students interested in a wide range of topic related to evolutionary biology, fish trait evolution, comparative phylogenetics, and population genetics. My lab uses a combination of molecular, analytical, and natural history methods. Some of the systems my lab will focus on include: <br> 1) hybridization and breeding behavior evolution in North American minnows, <br> 2) biogeography and amphibious behavior evolution in Mudskippers, <br> 3) invasive round goby population dynamics in the great lakes region. <br>If you are interested in these topics (in fishes or other organisums), or other topics related to my previously published papers, please reach out to me with a brief description of your interest and a CV. <li>
+<li>I am looking for Ph.D. students to join my lab at IIT starting Fall 2026!<br>
+I am open to students interested in a wide range of topics related to evolutionary biology, fish trait evolution, comparative phylogenetics, and population genetics. My lab uses a combination of molecular, analytical, and natural history methods. Some of the systems my lab will focus on include:<br> 1) Hybridization and breeding behavior evolution in North American minnows,<br> 2) Biogeography and amphibious behavior evolution in mudskippers,<br> 3) Invasive round goby population dynamics in the Great Lakes region.<br>
+If you are interested in these topics (in fishes or other organisms), or in topics related to my previously published papers, please reach out with a brief description of your interests and a CV. <li>
