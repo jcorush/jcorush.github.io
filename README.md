@@ -94,9 +94,21 @@ body {
   </ul>
 </div>
 
+
 <div id="Research" class="tabcontent">
   <p>I use population genetics, phylogenetic comparative methods, and natural history to study trait evolution in fishes. My research focuses on how life-history traits—such as breeding behavior and migration patterns—shape population connectivity, movement across landscapes, and hybridization rates. I then explore how these traits evolved. Two major lines of research in my lab are: (1) the evolution of breeding behavior in North American minnows, and (2) the biogeography and life-history evolution of Indo-Pacific mudskippers.</p>
+
+  <!-- New two-column section -->
+  <div style="display: flex; gap: 20px; margin-top: 20px;">
+    <div style="flex: 1;">
+      <img src="minnow_photo.jpg" alt="Minnow research" style="width:100%; border-radius:8px;">
+    </div>
+    <div style="flex: 1; display: flex; align-items: center;">
+      <p>this is my research about minnow nests</p>
+    </div>
+  </div>
 </div>
+
 
 <div id="Publications" class="tabcontent">
   <p>For a full list of publications see my <a href="https://scholar.google.com/citations?user=Xh3zefgAAAAJ&hl=en&oi=ao.html" title="Google Scholar page">Google Scholar page</a></p>
