@@ -128,7 +128,7 @@ body {
   If you are interested in these topics (in fishes or other organisms), or in topics related to my previously published papers, please reach out with a brief description of your interests and a CV.</p>
 </div>
 
-<div> id="Teaching" class="tabcontent">
+<div id="Teaching" class="tabcontent">
   <p>Teaching <br>
     <li> Illinois Institute of Technology</li>
   <ul>
