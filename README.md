@@ -23,6 +23,20 @@ body {
   padding: 20px;
   box-sizing: border-box;
 }
+.tab .profile {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.tab .profile img {
+  width: 150px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+.tab .profile h1, .tab .profile h3 {
+  margin: 2px 0;
+  font-weight: normal;
+  color: #555;
+}
 .tab button {
   background-color: inherit;
   border: none;
@@ -45,39 +59,17 @@ body {
   padding: 20px;
   box-sizing: border-box;
 }
-.header-section {
-  display: flex;
-  gap: 20px;
-  align-items: flex-start;
-  padding-bottom: 20px;
-}
-.header-text {
-  flex: 1;
-}
-img {
-  width: 300px;
-  height: auto;
-  border-radius: 8px;
-}
-h1 {
-  margin-bottom: 0;
-}
-h2, h3 {
-  margin-top: 2px;
-  font-weight: normal;
-  color: #555;
-}
-h3 small {
-  display: block;
-  font-weight: normal;
-  color: #555;
-}
 </style>
 </head>
 <body>
 
 <div class="tab">
-  <button class="tablinks" onclick="openTab(event,'Header')">Home</button>
+  <div class="profile">
+    <img src="cover_photo" alt="Profile Photo" />
+    <h1>Joel Corush</h1>
+    <h3>Assistant Professor<br>Evolutionary Ichthyologist</h3>
+  </div>
+  <button class="tablinks" onclick="openTab(event,'Home')">Home</button>
   <button class="tablinks" onclick="openTab(event,'Education')">Education</button>
   <button class="tablinks" onclick="openTab(event,'Research')">Research</button>
   <button class="tablinks" onclick="openTab(event,'Publications')">Publications</button>
@@ -86,16 +78,8 @@ h3 small {
 
 <div class="main-content">
 
-<div id="Header" class="tabcontent">
-  <section class="header-section">
-    <div class="header-text">
-      <h1>Joel Corush</h1>
-      <h3>Assistant Professor <br>Evolutionary Ichthyologist<br>Biology Department <br>Illinois Institute of Technology<br>Robert A. Pritzker Science Center<br>3105 South Dearborn Street, Room 182<br>Chicago, IL 60616<br>email: jcorush@illinoistech.edu</h3>
-    </div>
-    <div>
-      <img src="cover_photo" alt="Profile Photo" />
-    </div>
-  </section>
+<div id="Home" class="tabcontent">
+  <p>Welcome to my academic website! Please select a tab to learn more about my work.</p>
 </div>
 
 <div id="Education" class="tabcontent">
@@ -132,8 +116,6 @@ h3 small {
   2) Biogeography and amphibious behavior evolution in mudskippers,<br>
   3) Invasive round goby population dynamics in the Great Lakes region.<br>
   If you are interested in these topics (in fishes or other organisms), or in topics related to my previously published papers, please reach out with a brief description of your interests and a CV.</p>
-</div>
-
 </div>
 
 <script>
