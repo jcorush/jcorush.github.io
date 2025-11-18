@@ -131,7 +131,7 @@ body {
 </div>
 
 <div id="Teaching" class="tabcontent">
-  <p>Teaching <br>
+  <p>Teaching <br></p>
     <li> Illinois Institute of Technology</li>
   <ul>
     <li>Molecular Biology ((BIOL 515) - Fall 2025</li>
