@@ -97,16 +97,16 @@ body {
 
 <div id="Research" class="tabcontent">
   <p>I use population genetics, phylogenetic comparative methods, and natural history to study trait evolution in fishes. My research focuses on how life-history traits—such as breeding behavior and migration patterns—shape population connectivity, movement across landscapes, and hybridization rates. I then explore how these traits evolved. Two major lines of research in my lab are: (1) the evolution of breeding behavior in North American minnows, and (2) the biogeography and life-history evolution of Indo-Pacific mudskippers.</p>
-</div>
-
+  
   <!-- New two-column section -->
-<div style="display: flex; gap: 20px; margin-top: 20px;">
-  <div style="flex: 1;"> <!-- photo column -->
+  <div style="display: flex; gap: 20px; margin-top: 20px;">
+    <div style="flex: 1;"> <!-- photo column -->
     <img src="Minnow_PCM_tree.png" alt="Minnow research" style="width:100%; border-radius:8px;">
-  </div>
-  <div style="flex: 3; display: flex; align-items: center;"> <!-- text column -->
+    </div>
+    <div style="flex: 3; display: flex; align-items: center;"> <!-- text column -->
     <p>I am currently interested in understanding how complex nesting behaviors evolve and the evolutionary consequences of this reproductive strategy. I use phylogenetic comparative methods to examine whether hybridization is associated with particular breeding behaviors.</p>
-   </div>
+     </div>
+  </div>
 </div>
   
 <div id="Publications" class="tabcontent">
