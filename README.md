@@ -112,7 +112,7 @@ body {
   </ul>
 </div>
 
-<div id="Publications" class="tabcontent">
+<div id="People" class="tabcontent">
   <p>Current lab members: </p>
   <ul>
     <li>P.R. </li>
