@@ -126,9 +126,9 @@ body {
 <div id="People" class="tabcontent">
   <p>Current lab members: </p>
   <ul>
-    <li>P.R. - Masters Student </li>
+    <li>Paula Rodriguez - Masters Student </li>
      <ul>
-         <li>P.R. Joined the lab in fall 2025. </li>
+         <li>Paula joined the lab in fall 2025. Paula is evaluating DNA extraction protocols to increase genetic yields from fish eggs. </li>
      </ul>  
   </ul>
 </div>
