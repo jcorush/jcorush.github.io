@@ -40,10 +40,9 @@ body {
   background-color: #ccc;
 }
 /* Main content */
-.tabcontent {
-  display: none;
-  padding: 20px;
+.main-content {
   width: 75%;
+  padding: 20px;
   box-sizing: border-box;
 }
 .header-section {
@@ -78,13 +77,16 @@ h3 small {
 <body>
 
 <div class="tab">
+  <button class="tablinks" onclick="openTab(event,'Header')">Home</button>
   <button class="tablinks" onclick="openTab(event,'Education')">Education</button>
   <button class="tablinks" onclick="openTab(event,'Research')">Research</button>
   <button class="tablinks" onclick="openTab(event,'Publications')">Publications</button>
   <button class="tablinks" onclick="openTab(event,'PhD')">Ph.D Opportunities</button>
 </div>
 
-<div class="tabcontent">
+<div class="main-content">
+
+<div id="Header" class="tabcontent">
   <section class="header-section">
     <div class="header-text">
       <h1>Joel Corush</h1>
@@ -130,6 +132,8 @@ h3 small {
   2) Biogeography and amphibious behavior evolution in mudskippers,<br>
   3) Invasive round goby population dynamics in the Great Lakes region.<br>
   If you are interested in these topics (in fishes or other organisms), or in topics related to my previously published papers, please reach out with a brief description of your interests and a CV.</p>
+</div>
+
 </div>
 
 <script>
