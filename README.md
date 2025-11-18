@@ -101,7 +101,7 @@ body {
   <!-- New two-column section -->
   <div style="display: flex; gap: 20px; margin-top: 20px;">
     <div style="flex: 1;">
-      <img src="minnow_photo.jpg" alt="Minnow research" style="width:100%; border-radius:8px;">
+      <img src="Minnow_PCM_tree.png" alt="Minnow research" style="width:100%; border-radius:8px;">
     </div>
     <div style="flex: 1; display: flex; align-items: center;">
       <p>this is my research about minnow nests</p>
