@@ -126,9 +126,9 @@ body {
 <div id="People" class="tabcontent">
   <p>Current lab members: </p>
   <ul>
-    <li>P.R. </li>
+    <li>P.R. (Masters Student) </li>
      <ul>
-         <li>P.R. is interested in birds </li>
+         <li>P.R. is interested in birds. </li>
      </ul>  
   </ul>
 </div>
