@@ -66,7 +66,9 @@ body {
   <div class="profile">
     <img src="cover_photo" alt="Profile Photo" />
     <h1>Joel Corush</h1>
-    <h1> Evolutionary Ichthyologist<br></h1>
+    <h3> Assistant Professor</h3>
+    <h3> Evolutionary Ichthyologist</h3>
+
   </div>
   <button class="tablinks" onclick="openTab(event,'About me')">About me</button>
   <button class="tablinks" onclick="openTab(event,'Research')">Research</button>
