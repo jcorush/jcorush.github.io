@@ -60,7 +60,6 @@ body {
 }
 </style>
 </head>
-<body>
 
 <div class="tab">
   <div class="profile">
@@ -134,5 +133,3 @@ function openTab(evt, tabName) {
 document.getElementsByClassName("tablinks")[0].click();
 </script>
 
-</body>
-</html>
