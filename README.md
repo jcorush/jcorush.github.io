@@ -47,7 +47,7 @@ padding: 20px 0;
 
 
 <div>
-<img src="![Alt text for image](/cover_photo "Optional image title")" alt="Profile Photo" />
+<img src=![Alt text for image](/cover_photo "Optional image title") alt="Profile Photo" />
 </div>
 </section>
 
