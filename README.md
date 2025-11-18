@@ -54,8 +54,9 @@ padding: 20px 0;
 
 <section class="single-column">
 <h2>Publications</h2>
+<li>  For a full list of piblications see my <a href="https://scholar.google.com/citations?user=Xh3zefgAAAAJ&hl=en&oi=ao.html" title="Google Scholar page">Google Scholar page</a></li>
 <ul>
-<li>Publication One, Year, Journal</li>
+<li>Corush, J. B., Cucalón, R. V., Metzke, B. A., Tan, M., & Davis, M. A. (2025). Pleistocene glaciation and Anthropocene fragmentation influence genetic variation in the Illinois state–listed mottled sculpin (Cottus bairdii). Environmental Biology of Fishes, 1-18.</li>
 <li>Publication Two, Year, Journal</li>
 <li>Publication Three, Year, Journal</li>
 </ul>
