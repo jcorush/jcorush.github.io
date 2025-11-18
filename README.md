@@ -78,4 +78,4 @@ padding: 20px 0;
 <h2>Interested in persuing a Ph.D in my lab?</h2>
 <li>I am looking for Ph.D. students to join my lab at IIT starting Fall 2026!<br>
 I am open to students interested in a wide range of topics related to evolutionary biology, fish trait evolution, comparative phylogenetics, and population genetics. My lab uses a combination of molecular, analytical, and natural history methods. Some of the systems my lab will focus on include:<br> 1) Hybridization and breeding behavior evolution in North American minnows,<br> 2) Biogeography and amphibious behavior evolution in mudskippers,<br> 3) Invasive round goby population dynamics in the Great Lakes region.<br>
-If you are interested in these topics (in fishes or other organisms), or in topics related to my previously published papers, please reach out with a brief description of your interests and a CV. <li>
+If you are interested in these topics (in fishes or other organisms), or in topics related to my previously published papers, please reach out with a brief description of your interests and a CV. </li>
