@@ -41,6 +41,7 @@ padding: 20px 0;
 <section class="two-column">
 <div>
 <h1>Joel Corush</h1>
+ <ul style="list-style-type: none; padding-left: 0;">
 <li>Assistant Professor <br>Evolutionary Ichthyologist
 <br>Biology Department <br>Illinois Institute of Technology<br>Robert A. Pritzker Science Center<br>3105 South Dearborn Street, Room 182<br>Chicago, IL 60616
 <br>email: jcorush @ Illinoistech . edu</li>
