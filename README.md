@@ -104,7 +104,7 @@ body {
     <img src="Minnow_PCM_tree.png" alt="Minnow research" style="width:100%; border-radius:8px;">
     </div>
     <div style="flex: 3; display: flex; align-items: center;"> <!-- text column -->
-    <p>I am currently interested in understanding how complex nesting behaviors evolve and the evolutionary consequences of this reproductive strategy. I use phylogenetic comparative methods to examine whether hybridization is associated with particular breeding behaviors.</p>
+    <p>I am interested in understanding how complex nesting behaviors evolve and the evolutionary consequences of this reproductive strategy. I use phylogenetic comparative methods to examine if hybridization is associated with particular breeding behaviors.</p>
      </div>
   </div>
 </div>
