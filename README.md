@@ -152,7 +152,7 @@ body {
     <li>Molecular Biology ((BIOL 515) - Fall 2025</li>
     <li>Urban Evology ((BIOL 200) - Spring 2026</li>
   </ul> 
-  <li>University Of Illinois6</li>
+  <li>University Of Illinois</li>
   <ul>
     <li>-Conservation of ‘extinct’ species (IB546) - graduate seminar. </li>
     <li>--Phylogenetic Comparative Methods (IB546) - graduate seminar. (co-instructer) </li>
