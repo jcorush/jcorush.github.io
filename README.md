@@ -58,6 +58,31 @@ body {
   padding: 20px;
   box-sizing: border-box;
 }
+  .research-section {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.research-image {
+  flex: 1;            /* 1 part width */
+}
+
+.research-text {
+  flex: 3;            /* 3 parts width */
+}
+
+/* Make responsive for mobile */
+@media (max-width: 768px) {
+  .research-section {
+    flex-direction: column;
+  }
+  .research-image, .research-text {
+    flex: none;
+    width: 100%;
+  }
+}
+
 </style>
 </head>
 <body>
