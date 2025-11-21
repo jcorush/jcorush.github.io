@@ -108,6 +108,16 @@ body {
   
   <!-- New two-column section -->
   <div style="display: flex; gap: 20px; margin-top: 20px;">
+    <div style="flex: 1; display: flex; align-items: center;"> <!-- text column -->
+    <p>Mudskippers are a semi-terrestrial group of fishes that spend much of their time on intertidal mudflats. This behavior is accompanied by numerous behavioral, physiological, and morphological adaptations, and may play an important role in shaping the biogeographical distribution of these species. My research focuses on understanding how this lifestyle influences movement patterns, population connectivity, and the evolutionary diversification of this clade.</p>
+     </div>
+     <div style="flex: 3;"> <!-- photo column -->
+    <img src="fevo-10-967067-g001.jpg" alt="Minnow research" style="width:100%; border-radius:8px;">
+    </div>
+  </div>
+</div>
+    <!-- New two-column section -->
+  <div style="display: flex; gap: 20px; margin-top: 20px;">
     <div style="flex: 1;"> <!-- photo column -->
     <img src="Minnow_PCM_tree.png" alt="Minnow research" style="width:100%; border-radius:8px;">
     </div>
@@ -116,7 +126,6 @@ body {
      </div>
   </div>
 </div>
-  
 <div id="Publications" class="tabcontent">
   <p>For a full list of publications see my <a href="https://scholar.google.com/citations?user=Xh3zefgAAAAJ&hl=en&oi=ao.html" 
    title="Google Scholar page" 
