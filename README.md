@@ -104,32 +104,45 @@ body {
 
 
 <div id="Research" class="tabcontent">
-  <p>I use population genetics, phylogenetic comparative methods, and natural history to study trait evolution in fishes. My research focuses on how life-history traits—such as breeding behavior and migration patterns—shape population connectivity, movement across landscapes, and hybridization rates. I then explore how these traits evolved. Two major lines of research in my lab are: (1) the evolution of breeding behavior in North American minnows, and (2) the biogeography and life-history evolution of Indo-Pacific mudskippers.</p>
-<!-- First two-column research section -->
- <div style="display: flex; gap: 20px; margin-top: 20px;">
-   <div style="flex: 1;"> <!-- photo column --> <img src="Minnow_PCM_tree.png" alt="Minnow research" style="width:100%; border-radius:8px;"> 
-   </div> 
-   <div style="flex: 3; display: flex; align-items: center;"> <!-- text column --> <p>I am interested in understanding how complex nesting behaviors evolve and the evolutionary consequences of this reproductive strategy. I use phylogenetic comparative methods to examine if hybridization is associated with particular breeding behaviors.</p> 
-   </div> 
- </div> 
- <div class="two-column">
-    <div class="image-col">
+
+  <!-- Main introduction paragraph -->
+  <p>
+    I use population genetics, phylogenetic comparative methods, and natural history to study trait evolution in fishes. 
+    My research focuses on how life-history traits—such as breeding behavior and migration patterns—shape population 
+    connectivity, movement across landscapes, and hybridization rates. I then explore how these traits evolved. 
+    Two major lines of research in my lab are: (1) the evolution of breeding behavior in North American minnows, 
+    and (2) the biogeography and life-history evolution of Indo-Pacific mudskippers.
+  </p>
+
+  <!-- Minnow section (image left, text right) -->
+  <div class="two-column" style="display: flex; gap: 20px; margin-top: 30px; align-items: center;">
+    <div class="image-col" style="flex: 1;">
       <img src="Minnow_PCM_tree.png" alt="Minnow research" style="width:100%; border-radius:8px;">
     </div>
-    <div class="text-col">
-      <p>I am interested in understanding how complex nesting behaviors evolve and the evolutionary consequences of this reproductive strategy. I use phylogenetic comparative methods to examine if hybridization is associated with particular breeding behaviors.</p>
+    <div class="text-col" style="flex: 2;">
+      <p>
+        I am interested in understanding how complex nesting behaviors evolve and the evolutionary consequences 
+        of this reproductive strategy. I use phylogenetic comparative methods to examine whether hybridization is 
+        associated with particular breeding behaviors among North American minnows.
+      </p>
     </div>
   </div>
-</div>
-  <!-- Second two-column research section (image on right) -->
-  <div class="two-column reverse">
-    <div class="image-col">
+
+  <!-- Mudskipper section (image right, text left) -->
+  <div class="two-column reverse" style="display: flex; gap: 20px; margin-top: 30px; align-items: center; flex-direction: row-reverse;">
+    <div class="image-col" style="flex: 1;">
       <img src="fevo-10-967067-g001.jpg" alt="Mudskipper research" style="width:100%; border-radius:8px;">
     </div>
-    <div class="text-col">
-      <p>Mudskippers are a semi-terrestrial group of fishes that spend much of their time on intertidal mudflats. This lifestyle is associated with numerous behavioral, physiological, and morphological adaptations, and may strongly influence biogeographical distribution. My research examines how amphibious movement shapes dispersal ability, population connectivity, and evolutionary diversification in this clade.</p>
+    <div class="text-col" style="flex: 2;">
+      <p>
+        Mudskippers are a semi-terrestrial group of fishes that spend much of their time on intertidal mudflats. 
+        This lifestyle is associated with numerous behavioral, physiological, and morphological adaptations, and may 
+        strongly influence biogeographical distribution. My research examines how amphibious movement shapes 
+        dispersal ability, population connectivity, and evolutionary diversification in this clade.
+      </p>
     </div>
   </div>
+
 </div>
 
 <div id="Publications" class="tabcontent">
