@@ -116,12 +116,7 @@ body {
      </div>
   </div>
 </div>
-  <div class="two-column">
-    <div>
-      <p>Mudskippers are a semi-terrestrial group of fishes that spend much of their time on intertidal mudflats. This behavior is accompanied by numerous behavioral, physiological, and morphological adaptations, and may play an important role in shaping the biogeographical distribution of these species. My research focuses on understanding how this lifestyle influences movement patterns, population connectivity, and the evolutionary diversification of this clade.</p>
-    </div>
-    <img src="fevo-10-967067-g001.jpg" alt="Mudskipper research">
-  </div>
+
 <div id="Publications" class="tabcontent">
   <p>For a full list of publications see my <a href="https://scholar.google.com/citations?user=Xh3zefgAAAAJ&hl=en&oi=ao.html" 
    title="Google Scholar page" 
