@@ -106,16 +106,6 @@ body {
 <div id="Research" class="tabcontent">
   <p>I use population genetics, phylogenetic comparative methods, and natural history to study trait evolution in fishes. My research focuses on how life-history traits—such as breeding behavior and migration patterns—shape population connectivity, movement across landscapes, and hybridization rates. I then explore how these traits evolved. Two major lines of research in my lab are: (1) the evolution of breeding behavior in North American minnows, and (2) the biogeography and life-history evolution of Indo-Pacific mudskippers.</p>
   
-  <!-- New two-column section -->
-  <div style="display: flex; gap: 20px; margin-top: 20px;">
-    <div style="flex: 1; display: flex; align-items: center;"> <!-- text column -->
-    <p>Mudskippers are a semi-terrestrial group of fishes that spend much of their time on intertidal mudflats. This behavior is accompanied by numerous behavioral, physiological, and morphological adaptations, and may play an important role in shaping the biogeographical distribution of these species. My research focuses on understanding how this lifestyle influences movement patterns, population connectivity, and the evolutionary diversification of this clade.</p>
-     </div>
-     <div style="flex: 3;"> <!-- photo column -->
-    <img src="fevo-10-967067-g001.jpg" alt="Minnow research" style="width:100%; border-radius:8px;">
-    </div>
-  </div>
-</div>
     <!-- New two-column section -->
   <div style="display: flex; gap: 20px; margin-top: 20px;">
     <div style="flex: 1;"> <!-- photo column -->
@@ -124,6 +114,13 @@ body {
     <div style="flex: 3; display: flex; align-items: center;"> <!-- text column -->
     <p>I am interested in understanding how complex nesting behaviors evolve and the evolutionary consequences of this reproductive strategy. I use phylogenetic comparative methods to examine if hybridization is associated with particular breeding behaviors.</p>
      </div>
+  </div>
+</div>
+  <div class="two-column">
+    <div>
+      <p>Mudskippers are a semi-terrestrial group of fishes that spend much of their time on intertidal mudflats. This behavior is accompanied by numerous behavioral, physiological, and morphological adaptations, and may play an important role in shaping the biogeographical distribution of these species. My research focuses on understanding how this lifestyle influences movement patterns, population connectivity, and the evolutionary diversification of this clade.</p>
+    </div>
+    <img src="fevo-10-967067-g001.jpg" alt="Mudskipper research">
   </div>
 </div>
 <div id="Publications" class="tabcontent">
