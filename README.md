@@ -128,6 +128,8 @@ body {
     </div>
   </div>
 
+  <hr style="margin: 30px 0; border: 0; border-top: 1px solid #ccc;">
+
   <!-- Mudskipper section (image right, text left) -->
   <div class="two-column reverse" style="display: flex; gap: 20px; margin-top: 30px; align-items: center; flex-direction: row-reverse;">
     <div class="image-col" style="flex: 1;">
