@@ -122,7 +122,6 @@ body {
     </div>
     <img src="fevo-10-967067-g001.jpg" alt="Mudskipper research">
   </div>
-</div>
 <div id="Publications" class="tabcontent">
   <p>For a full list of publications see my <a href="https://scholar.google.com/citations?user=Xh3zefgAAAAJ&hl=en&oi=ao.html" 
    title="Google Scholar page" 
