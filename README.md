@@ -142,7 +142,7 @@ body {
       <p>
         Mudskippers are a semi-terrestrial group of fishes that spend much of their time on intertidal mudflats. 
         This lifestyle is associated with numerous behavioral, physiological, and morphological adaptations, and may 
-        strongly influence biogeographical distribution. My research examines how amphibious movement shapes 
+        strongly influence biogeographical distribution. My research examines how an amphibious life history can shape 
         dispersal ability, population connectivity, and evolutionary diversification in this clade.
       </p>
     </div>
