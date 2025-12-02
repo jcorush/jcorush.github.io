@@ -124,8 +124,7 @@ body {
         I am interested in understanding how complex nesting behaviors evolve and the evolutionary consequences of this reproductive strategy. A recent phylogenetic comparative study demonstrated that nest association—using the nests of other species—significantly increases the likelihood of hybridization (<a href="https://academic.oup.com/jeb/article/34/3/486/7326628" 
    title="Corush et al. 2021" 
    target="_blank" 
-   rel="noopener noreferrer">Corush et al. 2021</a>
-      ). My ongoing research examines the evolutionary pathways that lead to the development of complex breeding behaviors—such as nest building and parental guarding—and quantifies the rates of hybridization associated with specific nest-building strategies among North American minnows.
+   rel="noopener noreferrer">Corush et al. 2021</a>). My ongoing research examines the evolutionary pathways that lead to the development of complex breeding behaviors—such as nest building and parental guarding—and quantifies the rates of hybridization associated with specific nest-building strategies among North American minnows.
       </p>
     </div>
   </div>
