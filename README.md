@@ -130,7 +130,6 @@ body {
       </p>
     </div>
   </div>
-https://academic.oup.com/jeb/article/34/3/486/7326628
 
 
   <hr style="margin: 30px 0; border: 0; border-top: 1px solid #ccc;">
