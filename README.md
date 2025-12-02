@@ -175,6 +175,13 @@ body {
          <li>Paula joined the lab in fall 2025. Paula is evaluating DNA extraction protocols to increase genetic yields from fish eggs. </li>
      </ul>  
   </ul>
+   <p>Future lab members: </p>
+  <ul>
+    <li>I am accepting Ph.D. and Masters Students for fall 2026 </li>
+     <ul>
+         <li>If you are interested in joining my lab, please email me with your CV and a paragraph about your interests related to my work. </li>
+     </ul>  
+  </ul>
 </div>
 
 <div id="PhD" class="tabcontent">
