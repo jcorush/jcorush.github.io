@@ -122,10 +122,10 @@ body {
     <div class="text-col" style="flex: 2;">
       <p>
         I am interested in understanding how complex nesting behaviors evolve and the evolutionary consequences 
-        of this reproductive strategy. One of my previous phylogenetic comparative studies has shown that nest assoceation (or the use of another speceis next) increased the chances of hybridization (<a href="[https://scholar.google.com/citations?user=Xh3zefgAAAAJ&hl=en&oi=ao.html](https://academic.oup.com/jeb/article/34/3/486/7326628)" 
+        of this reproductive strategy. One of my previous phylogenetic comparative studies has shown that nest assoceation (or the use of another speceis next) increased the chances of hybridization (<a href=https://academic.oup.com/jeb/article/34/3/486/7326628" 
    title="Corush et al. 2021" 
    target="_blank" 
-   rel="noopener noreferrer">Google Scholar page</a>
+   rel="noopener noreferrer">Corush et al. 2021</a>
        ). My ongoing research looks at the evolutionary pathways that lead up to complex breeding behaviors and quantifying the rats of hybridization assoceated with particular breeding behaviors among North American minnows. 
       </p>
     </div>
