@@ -107,9 +107,7 @@ body {
 
   <!-- Main introduction paragraph -->
   <p>
-    I use population genetics, phylogenetic comparative methods, and natural history to study trait evolution in fishes. 
-    My research focuses on how life-history traits—such as breeding behavior and migration patterns—shape population 
-    connectivity, movement across landscapes, and hybridization rates. I then explore how these traits evolved. 
+    I use population genetics, phylogenetic comparative methods, and natural history to study trait evolution in fishes. My research focuses on how life-history traits—such as       breeding behavior and migration patterns—shape population connectivity and movement across landscapes within species, as well as hybridization rates between species. I then compare these behaviors across clades to identify patterns associated with diversification, trait correlations, and the evolution of complex behaviors. I also work to incorporate this information into conservation and management efforts.  
     Two major lines of research in my lab are: (1) the evolution of breeding behavior in North American minnows, 
     and (2) the biogeography and life-history evolution of Indo-Pacific mudskippers.
   </p>
