@@ -167,6 +167,19 @@ body {
 <div id="People" class="tabcontent">
   <p>Current lab members: </p>
   <ul>
+    <!-- Paula (image left, text right) -->
+  <div class="two-column" style="display: flex; gap: 20px; margin-top: 30px; align-items: center;">
+    <div class="image-col" style="flex: 1;">
+      <img src="Paula R.png" alt="Paula" style="width:100%; border-radius:8px;">
+    </div>
+    <div class="text-col" style="flex: 2;">
+      <p>
+        <li>Paula Rodriguez - Masters Student </li>
+        <li>Paula joined the lab in Fall 2025. Paula is currently evaluating DNA extraction protocols to increase genetic yields from fish eggs. On her free time, Paula enjoys running, birding, and volunteering for educational programs to teach topics like math and bird conservation. She enjoys music and one of her favorite bands is Enjambre! If you ever want to study abroad, she also works as a study away peer advisor at Illinois Tech and helps undergrads find a program best suited to their interests for studying away!</li>
+      </p>
+    </div>
+  </div>
+    
     <li>Paula Rodriguez - Masters Student </li>
      <ul>
          <li>Paula joined the lab in Fall 2025. Paula is currently evaluating DNA extraction protocols to increase genetic yields from fish eggs. On her free time, Paula enjoys running, birding, and volunteering for educational programs to teach topics like math and bird conservation. She enjoys music and one of her favorite bands is Enjambre! If you ever want to study abroad, she also works as a study away peer advisor at Illinois Tech and helps undergrads find a program best suited to their interests for studying away!  </li>
