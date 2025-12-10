@@ -169,7 +169,7 @@ body {
   <ul>
     <li>Paula Rodriguez - Masters Student </li>
      <ul>
-         <li>Paula joined the lab in fall 2025. Paula is evaluating DNA extraction protocols to increase genetic yields from fish eggs. </li>
+         <li>Paula joined the lab in Fall 2025. Paula is currently evaluating DNA extraction protocols to increase genetic yields from fish eggs. On her free time, Paula enjoys running, birding, and volunteering for educational programs to teach topics like math and bird conservation. She enjoys music and one of her favorite bands is Enjambre! If you ever want to study abroad, she also works as a study away peer advisor at Illinois Tech and helps undergrads find a program best suited to their interests for studying away!  </li>
      </ul>  
   </ul>
    <p>Future lab members: </p>
