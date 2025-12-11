@@ -91,7 +91,7 @@ body {
 
 <div id="About me" class="tabcontent">
   <h2>Joel Corush </h2>
-    <h3>Assistant Professor <br>Evolutionary Ichthyologist<br>Biology Department <br>Illinois Institute of Technology<br>Robert A. Pritzker Science Center<br>3105 South Dearborn Street, Room 182<br>Chicago, IL 60616<br>email: jcorush@illinoistech.edu</h3>
+    <h3>Assistant Professor <br>Evolutionary Ichthyologist<br>Biology Department <br>Illinois Institute of Technology<br>Robert A. Pritzker Science Center<br>3105 South Dearborn Street, Room 182<br>Chicago, IL 60616<br>email: jcorush @ illinoistech . edu</h3>
   <br><br>
   <h3>Education</h3>
      <ul>
