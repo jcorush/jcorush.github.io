@@ -207,8 +207,8 @@ body {
   <p>Teaching <br></p>
     <li> Illinois Institute of Technology</li>
   <ul>
-    <li>Molecular Biology ((BIOL 515) - Fall 2025</li>
-    <li>Urban Evology ((BIOL 200) - Spring 2026</li>
+    <li>Molecular Biology (BIOL 515) - Fall 2025</li>
+    <li>Urban Evology (BIOL 200) - Spring 2026</li>
   </ul> 
   <li>University Of Illinois</li>
   <ul>
