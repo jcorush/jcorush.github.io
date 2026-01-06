@@ -1,4 +1,4 @@
-<html lang="en">
+A<html lang="en">
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -108,8 +108,8 @@ body {
   <!-- Main introduction paragraph -->
   <p>
     I use population genetics, phylogenetic comparative methods, and natural history to study trait evolution in fishes. My research focuses on how life-history traits—such as       breeding behavior and migration patterns—shape population connectivity and movement across landscapes within species, as well as hybridization rates between species. I then compare these behaviors across clades to identify patterns associated with diversification, trait correlations, and the evolution of complex behaviors. I also work to incorporate this information into conservation and management efforts.  
-    Two major lines of research in my lab are: (1) the evolution of breeding behavior in North American minnows, 
-    and (2) the biogeography and life-history evolution of Indo-Pacific mudskippers.
+    Some major lines of research in my lab are: (1) the evolution of breeding behavior in North American minnows, 
+     (2) the biogeography and life-history evolution of Indo-Pacific mudskippers, and (3) conservation. 
   </p>
 
   <!-- Minnow section (image left, text right) -->
@@ -144,6 +144,28 @@ body {
       </p>
     </div>
   </div>
+  
+  <hr style="margin: 30px 0; border: 0; border-top: 1px solid #ccc;">
+ 
+ <!-- Conservation section (image left, text right) -->
+  <div class="two-column" style="display: flex; gap: 20px; margin-top: 30px; align-items: center;">
+    <div class="image-col" style="flex: 1;">
+      <img src="Minnow_PCM_tree.png" alt="Minnow research" style="width:100%; border-radius:8px;">
+    </div>
+    <div class="text-col" style="flex: 2;">
+      <p>
+        I work with a number of spceis to address population connectivity, the effects of habiat modifications, and patterns of invasive speceis disperal. this is doen across a wide range of speceis including the Mottled Sculpin (<a href="https://link-springer-com.proxy2.library.illinois.edu/article/10.1007/s10641-025-01686-8" 
+   title="Corush et al. 2025" 
+   target="_blank" 
+   rel="noopener noreferrer">Corush et al. 2025</a>), spring cavefishes
+        (<a href="https://link-springer-com.proxy2.library.illinois.edu/article/10.1007/s10592-024-01640-8" 
+   title="Cucalón et al. 2024" 
+   target="_blank" 
+   rel="noopener noreferrer">Cucalón et al. 2024</a>), Round Goby, Slenderwrist Burrowing Crayfish, and Ironcolor Shiner, to name a few. 
+      </p>
+    </div>
+  </div>
+
 
 </div>
 
