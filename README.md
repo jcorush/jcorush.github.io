@@ -154,14 +154,14 @@ body {
     </div>
     <div class="text-col" style="flex: 2;">
       <p>
-        I work with a number of spceis to address population srtucture, hybridization, demographic history, and effects of habiat modifications on threatened and endangered species as well as patterns of invasive speceis disperal. I apply population and landscape genetics to a wide range of speceis including the Mottled Sculpin (<a href="https://link-springer-com.proxy2.library.illinois.edu/article/10.1007/s10641-025-01686-8" 
+        I work with a number of spceis to address population srtucture, hybridization, demographic history, and effects of habiat modifications on threatened and endangered species as well as dispersal patterns of invasive speceis. I apply population and landscape genetics to a wide range of speceis including the Mottled Sculpin (<a href="https://link.springer.com/article/10.1007/s10641-025-01686-8" 
    title="Corush et al. 2025" 
    target="_blank" 
    rel="noopener noreferrer">Corush et al. 2025</a>), spring cavefishes
-        (<a href="https://link-springer-com.proxy2.library.illinois.edu/article/10.1007/s10592-024-01640-8" 
+        (<a href="https://link.springer.com/article/10.1007/s10592-024-01640-8" 
    title="Cucalón et al. 2024" 
    target="_blank" 
-   rel="noopener noreferrer">Cucalón et al. 2022</a>), sharpnose rays (<a href="https://onlinelibrary-wiley-com.proxy2.library.illinois.edu/doi/full/10.1111/1749-4877.12614" 
+   rel="noopener noreferrer">Cucalón et al. 2022</a>), sharpnose rays (<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/1749-4877.12614" 
    title="Qi et al. 2024" 
    target="_blank" 
    rel="noopener noreferrer">Qi et al. 2022</a>), Round Goby, Slenderwrist Burrowing Crayfish, and Ironcolor Shiner, to name a few. 
