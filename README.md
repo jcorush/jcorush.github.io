@@ -205,7 +205,7 @@ body {
      </ul> 
       </p>
     </div>
-
+ </div>
     
     <p>  
   <li>Reuel Anwar - Masters Student </li>
