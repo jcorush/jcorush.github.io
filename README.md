@@ -206,12 +206,14 @@ body {
       </p>
     </div>
   </div>
-     
+    
+    <p>  
   </ul>
   <li>Reuel Anwar - Masters Student </li>
   <ul>
     <li>Reuel joined the lab in spring 2026. Reuel is currently working on population genetics of invasive round goby. He is identifyin genetic differences between Lake Michigan and Illinois River populations. </li>
    </ul> 
+   </p>
    
    <p>Future lab members: </p>
   <ul>
