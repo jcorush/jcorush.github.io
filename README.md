@@ -213,6 +213,7 @@ body {
     <li>Reuel joined the lab in spring 2026. Reuel is currently working on population genetics of invasive round goby. He is identifyin genetic differences between Lake Michigan and Illinois River populations. </li>
    </ul> 
    </p>
+   </div>
    
    <p>Future lab members: </p>
   <ul>
@@ -221,7 +222,6 @@ body {
          <li>If you are interested in joining my lab, please email me with your CV and a paragraph about your interests related to my work. </li>
      </ul>  
   </ul>
-</div>
 
 <div id="PhD" class="tabcontent">
   <p>I am recruting a Ph.D. (or Masters-to-Ph.D.) student to join my lab in Illinois Institute of Technology's Biology department starting Fall 2026!</p>
