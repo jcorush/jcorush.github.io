@@ -222,8 +222,8 @@ body {
          <li>If you are interested in joining my lab, please email me with your CV and a paragraph about your interests related to my work. </li>
      </ul>  
   </ul>
-</div>
-
+ </div>
+ 
 <div id="PhD" class="tabcontent">
   <p>I am recruting a Ph.D. (or Masters-to-Ph.D.) student to join my lab in Illinois Institute of Technology's Biology department starting Fall 2026!</p>
   <p>I am open to students interested in a wide range of topics related to evolutionary biology, fish trait evolution, comparative phylogenetic methods, and population genetics. My lab uses a combination of molecular, analytical, and natural history methods. Some of the systems my lab  focus on include:<br>
