@@ -246,7 +246,7 @@ body {
          <li>If you are interested in joining my lab, please email me with your CV and a paragraph about your interests related to my work. </li>
      </ul>  
   </ul>
- </div>
+
 
 <script>
 function openTab(evt, tabName) {
