@@ -222,6 +222,7 @@ body {
          <li>If you are interested in joining my lab, please email me with your CV and a paragraph about your interests related to my work. </li>
      </ul>  
   </ul>
+</div>
 
 <div id="PhD" class="tabcontent">
   <p>I am recruting a Ph.D. (or Masters-to-Ph.D.) student to join my lab in Illinois Institute of Technology's Biology department starting Fall 2026!</p>
