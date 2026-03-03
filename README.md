@@ -189,6 +189,20 @@ body {
   </ul>
 </div>
 
+<div id="Teaching" class="tabcontent">
+  <p>Teaching <br></p>
+    <li> Illinois Institute of Technology</li>
+  <ul>
+    <li>Molecular Biology (BIOL 515) - Fall 2025</li>
+    <li>Urban Evology (BIOL 200) - Spring 2026</li>
+  </ul> 
+  <li>University Of Illinois</li>
+  <ul>
+    <li>Conservation of ‘extinct’ species (IB546) - graduate seminar. </li>
+    <li>Phylogenetic Comparative Methods (IB546) - graduate seminar. (co-instructer) </li>
+  </ul>
+</div>
+
 <div id="People" class="tabcontent">
   <p>Current lab members: </p>
   <ul>
@@ -234,19 +248,7 @@ body {
   <p>If you are interested in the above topics (in fishes or other organisms), or in topics related to my previously published papers, please reach out with a brief description of your interests and a CV.</p>
 </div>
 
-<div id="Teaching" class="tabcontent">
-  <p>Teaching <br></p>
-    <li> Illinois Institute of Technology</li>
-  <ul>
-    <li>Molecular Biology (BIOL 515) - Fall 2025</li>
-    <li>Urban Evology (BIOL 200) - Spring 2026</li>
-  </ul> 
-  <li>University Of Illinois</li>
-  <ul>
-    <li>Conservation of ‘extinct’ species (IB546) - graduate seminar. </li>
-    <li>Phylogenetic Comparative Methods (IB546) - graduate seminar. (co-instructer) </li>
-  </ul>
-</div>
+
 
 <script>
 function openTab(evt, tabName) {
