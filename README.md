@@ -247,7 +247,7 @@ body {
      </ul>  
   </ul>
 
-
+![](https://komarev.com/ghpvc/?username=jcorush&abbreviated=true)
 <script>
 function openTab(evt, tabName) {
   var i, tabcontent, tablinks;
