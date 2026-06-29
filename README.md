@@ -167,7 +167,7 @@ body {
    rel="noopener noreferrer">Qi et al. 2022</a>), Round Goby, Slenderwrist Burrowing Crayfish, and Ironcolor Shiner (<a href="https://link.springer.com/article/10.1007/s10592-026-01801-x" 
    title="Corush et al. 2026" 
    target="_blank" 
-   rel="noopener noreferrer">corush et al. 2026</a>), to name a few. 
+   rel="noopener noreferrer">Corush et al. 2026</a>), to name a few. 
       </p>
     </div>
   </div>
