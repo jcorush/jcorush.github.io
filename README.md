@@ -109,7 +109,7 @@ body {
   <p>
     I use population genetics, phylogenetic comparative methods, and natural history to study trait evolution in fishes. My research focuses on how life-history traits—such as       breeding behavior and migration patterns—shape population connectivity and movement across landscapes within species, as well as hybridization rates between species. I then compare these behaviors across clades to identify patterns associated with diversification, trait correlations, and the evolution of complex behaviors. I also work to incorporate this information into conservation and management efforts.  
     Some major lines of research in my lab are: (1) the evolution of breeding behavior in North American minnows, 
-     (2) the biogeography and life-history evolution of Indo-Pacific mudskippers, and (3) conservation. 
+     (2) the biogeography and life-history evolution of Indo-Pacific mudskippers, and (3) conservation genetics. 
   </p>
 
   <!-- Minnow section (image left, text right) -->
