@@ -164,7 +164,10 @@ body {
    rel="noopener noreferrer">Cucalón et al. 2022</a>), sharpnose rays (<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/1749-4877.12614" 
    title="Qi et al. 2024" 
    target="_blank" 
-   rel="noopener noreferrer">Qi et al. 2022</a>), Round Goby, Slenderwrist Burrowing Crayfish, and Ironcolor Shiner, to name a few. 
+   rel="noopener noreferrer">Qi et al. 2022</a>), Round Goby, Slenderwrist Burrowing Crayfish, and Ironcolor Shiner (<a href="https://link.springer.com/article/10.1007/s10592-026-01801-x" 
+   title="Corush et al. 2026" 
+   target="_blank" 
+   rel="noopener noreferrer">corush et al. 2026</a>), to name a few. 
       </p>
     </div>
   </div>
