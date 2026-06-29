@@ -179,6 +179,7 @@ body {
    rel="noopener noreferrer">Google Scholar page</a></p>
   <p>Select publications:</p>
   <ul>
+    <li>Corush, J. B., Cucalón, R. V., Kurita, H., Metzke, B. A., Tan, M., & Davis, M. A. (2026). Unique genetic diversity and differential demographics revealed in peripheral populations of a North American minnow, the Ironcolor Shiner (Alburnops chalybaeus). Conservation Genetics, 27(4), 81.</li>
     <li>Corush, J. B., Cucalón, R. V., Metzke, B. A., Tan, M., & Davis, M. A. (2025). Pleistocene glaciation and Anthropocene fragmentation influence genetic variation in the Illinois state–listed mottled sculpin (Cottus bairdii). Environmental Biology of Fishes, 1-18.</li>
     <li>Corush, J. B. (2024). Nest-Associating Minnows Prefer Occupying Longear Sunfish Nests Over Green Sunfish Nests. Northeastern Naturalist, 31(4), 479-487.</li>
     <li>Cucalón, R. V., Corush, J. B., Niemiller, M. L., Curtis, A. N., Hart, P. B., Kuhajda, B. R., ... & Tan, M. (2024). Population genomics and mitochondrial DNA reveal cryptic diversity in North American Spring Cavefishes (Amblyopsidae, Forbesichthys). Conservation Genetics, 25(6), 1283-1301.</li>
