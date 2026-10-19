@@ -220,7 +220,7 @@ body {
 </div>
 
 <div id="People" class="tabcontent">
-  <p>**Current lab members:** </p>
+  <p><strong>Current lab members:</strong> </p>
 
       <p>  
   <li>Reuel Anwar - Masters Student </li>
@@ -244,11 +244,10 @@ body {
      </ul> 
       </p>
     </div>
-</div>
-    
 
-
-   
+   <p> </p>
+    <p> </p>
+     <p> </p>
    <p>Future lab members: </p>
   <ul>
     <li>I am accepting Ph.D. and Masters Students for fall 2026 </li>
