@@ -197,8 +197,10 @@ body {
   <p>Teaching <br></p>
     <li> Illinois Institute of Technology</li>
   <ul>
-    <li>Molecular Biology (BIOL 515) - Fall 2025</li>
-    <li>Urban Evology (BIOL 200) - Spring 2026</li>
+    <li>Spring 2027 - Population Genetics (BIOL 420/521) - </li>
+    <li>Fall 2026 - Molecular Biology (BIOL 515)</li>
+    <li>Spring 2026 - Urban Evology (BIOL 200) - </li>
+    <li>Fall 2025 - Molecular Biology (BIOL 515)</li>
   </ul> 
   <li>University Of Illinois</li>
   <ul>
@@ -218,7 +220,16 @@ body {
 </div>
 
 <div id="People" class="tabcontent">
-  <p>Current lab members: </p>
+  <p>**Current lab members:** </p>
+
+      <p>  
+  <li>Reuel Anwar - Masters Student </li>
+  <ul>
+    <li>Reuel joined the lab in spring 2026. Reuel is currently working on population genetics of invasive round goby. He is identifying genetic differences between Lake Michigan and Illinois River populations. </li>
+   </ul> 
+   </p>
+
+     <p>Former lab members: </p>
   <ul>
     <!-- Paula (image left, text right) -->
   <div class="two-column" style="display: flex; gap: 20px; margin-top: 30px; align-items: center;">
@@ -235,12 +246,7 @@ body {
     </div>
 </div>
     
-    <p>  
-  <li>Reuel Anwar - Masters Student </li>
-  <ul>
-    <li>Reuel joined the lab in spring 2026. Reuel is currently working on population genetics of invasive round goby. He is identifying genetic differences between Lake Michigan and Illinois River populations. </li>
-   </ul> 
-   </p>
+
 
    
    <p>Future lab members: </p>
