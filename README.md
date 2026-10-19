@@ -197,9 +197,9 @@ body {
   <p>Teaching <br></p>
     <li> Illinois Institute of Technology</li>
   <ul>
-    <li>Spring 2027 - Population Genetics (BIOL 420/521) - </li>
+    <li>Spring 2027 - Population Genetics (BIOL 420/521) </li>
     <li>Fall 2026 - Molecular Biology (BIOL 515)</li>
-    <li>Spring 2026 - Urban Evology (BIOL 200) - </li>
+    <li>Spring 2026 - Urban Evology (BIOL 200) </li>
     <li>Fall 2025 - Molecular Biology (BIOL 515)</li>
   </ul> 
   <li>University Of Illinois</li>
