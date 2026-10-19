@@ -181,16 +181,16 @@ body {
    target="_blank" 
    rel="noopener noreferrer">Google Scholar page</a></p>
   <p>Select publications:</p>
-  <ul>
+  <ol>
     <li>Corush, J. B., Cucalón, R. V., Kurita, H., Metzke, B. A., Tan, M., & Davis, M. A. (2026). Unique genetic diversity and differential demographics revealed in peripheral populations of a North American minnow, the Ironcolor Shiner (Alburnops chalybaeus). <em>Conservation Genetics</em>, 27(4), 81.</li>
-    <li>Corush, J. B., Cucalón, R. V., Metzke, B. A., Tan, M., & Davis, M. A. (2025). Pleistocene glaciation and Anthropocene fragmentation influence genetic variation in the Illinois state–listed mottled sculpin (Cottus bairdii). <em>Environmental Biology of Fishes</em>, 1-18.</li>
+    <li>Corush, J. B., Cucalón, R. V., Metzke, B. A., Tan, M., & Davis, M. A. (2025). Pleistocene glaciation and Anthropocene fragmentation influence genetic variation in the Illinois state–listed mottled sculpin (<em>Cottus bairdii</em>). <em>Environmental Biology of Fishes</em>, 1-18.</li>
     <li>Corush, J. B. (2024). Nest-Associating Minnows Prefer Occupying Longear Sunfish Nests Over Green Sunfish Nests. <em>Northeastern Naturalist</em>, 31(4), 479-487.</li>
-    <li>Cucalón, R. V., Corush, J. B., Niemiller, M. L., Curtis, A. N., Hart, P. B., Kuhajda, B. R., ... & Tan, M. (2024). Population genomics and mitochondrial DNA reveal cryptic diversity in North American Spring Cavefishes (Amblyopsidae, Forbesichthys). <em>Conservation Genetics</em>, 25(6), 1283-1301.</li>
+    <li>Cucalón, R. V., Corush, J. B., Niemiller, M. L., Curtis, A. N., Hart, P. B., Kuhajda, B. R., ... & Tan, M. (2024). Population genomics and mitochondrial DNA reveal cryptic diversity in North American Spring Cavefishes (<em>Amblyopsidae, Forbesichthys</em>). <em>Conservation Genetics</em>, 25(6), 1283-1301.</li>
     <li>Corush, J. B., Pierson, T. W., Shiao, J. C., Katayama, Y., Zhang, J., & Fitzpatrick, B. M. (2022). Amphibious mudskipper populations are genetically connected along coastlines, but differentiated across water. <em>Journal of Biogeography</em>, 49(4), 767-779.</li>
     <li>Corush, J. B., Fitzpatrick, B. M., Wolfe, E. L., & Keck, B. P. (2021). Breeding behaviour predicts patterns of natural hybridization in North American minnows (Cyprinidae). <em>Journal of Evolutionary Biology</em>, 34(3), 486-500.</li>
-    <li>Corush, J. B. (2019). Evolutionary patterns of diadromy in fishes: more than a transitional state between marine and freshwater. BMC Evolutionary Biology, 19(1), 168.</li>
+    <li>Corush, J. B. (2019). Evolutionary patterns of diadromy in fishes: more than a transitional state between marine and freshwater. <em>BMC Evolutionary Biology</em>, 19(1), 168.</li>
     <li>Fitzpatrick, B. M., Ryan, M. E., Johnson, J. R., Corush, J., & Carter, E. T. (2015). Hybridization and the species problem in conservation. <em>Current Zoology</em>, 61(1), 206-216.</li>
-  </ul>
+  </ol>
 </div>
 
 <div id="Teaching" class="tabcontent">
