@@ -140,7 +140,16 @@ body {
         Mudskippers are a semi-terrestrial group of fishes that spend much of their time on intertidal mudflats. 
         This lifestyle is associated with numerous behavioral, physiological, and morphological adaptations, and may 
         strongly influence biogeographical distribution. My research examines how an amphibious life history can shape 
-        dispersal ability, population connectivity, and evolutionary diversification in this clade.
+        dispersal ability, population connectivity, and evolutionary diversification in this clade.(<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.14345" 
+   title="Corush et al. 2022" 
+   target="_blank" 
+   rel="noopener noreferrer">Corush et al. 2022</a>;<a href="https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2022.966275/full" 
+   title="Li et al. 2022" 
+   target="_blank" 
+   rel="noopener noreferrer">Li et al. 2022</a>;<a href="https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2022.967067/full" 
+   title="Corush and Zhang 2022" 
+   target="_blank" 
+   rel="noopener noreferrer">Corush and Zhang 2022</a>)
       </p>
     </div>
   </div>
@@ -181,7 +190,7 @@ body {
    target="_blank" 
    rel="noopener noreferrer">Google Scholar page</a></p>
   <p>Select publications:</p>
-  <ol>
+  <ul>
     <li>Corush, J. B., Cucalón, R. V., Kurita, H., Metzke, B. A., Tan, M., & Davis, M. A. (2026). Unique genetic diversity and differential demographics revealed in peripheral populations of a North American minnow, the Ironcolor Shiner (Alburnops chalybaeus). <em>Conservation Genetics</em>, 27(4), 81.</li>
     <li>Corush, J. B., Cucalón, R. V., Metzke, B. A., Tan, M., & Davis, M. A. (2025). Pleistocene glaciation and Anthropocene fragmentation influence genetic variation in the Illinois state–listed mottled sculpin (<em>Cottus bairdii</em>). <em>Environmental Biology of Fishes</em>, 1-18.</li>
     <li>Corush, J. B. (2024). Nest-Associating Minnows Prefer Occupying Longear Sunfish Nests Over Green Sunfish Nests. <em>Northeastern Naturalist</em>, 31(4), 479-487.</li>
@@ -190,7 +199,7 @@ body {
     <li>Corush, J. B., Fitzpatrick, B. M., Wolfe, E. L., & Keck, B. P. (2021). Breeding behaviour predicts patterns of natural hybridization in North American minnows (Cyprinidae). <em>Journal of Evolutionary Biology</em>, 34(3), 486-500.</li>
     <li>Corush, J. B. (2019). Evolutionary patterns of diadromy in fishes: more than a transitional state between marine and freshwater. <em>BMC Evolutionary Biology</em>, 19(1), 168.</li>
     <li>Fitzpatrick, B. M., Ryan, M. E., Johnson, J. R., Corush, J., & Carter, E. T. (2015). Hybridization and the species problem in conservation. <em>Current Zoology</em>, 61(1), 206-216.</li>
-  </ol>
+  </ul>
 </div>
 
 <div id="Teaching" class="tabcontent">
