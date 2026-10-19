@@ -245,10 +245,7 @@ body {
       </p>
     </div>
 </div>
-   <p> </p>
-    <p> </p>
-     <p> </p>
-   <p><strong>Future lab members:</strong> </p>
+<p><strong>Future lab members:</strong> </p>
   <ul>
          <li>If you are interested in joining my lab as an undergraduate or graduate students, please email me with your CV and a paragraph about your interests related to my work. </li> 
   </ul>
