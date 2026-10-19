@@ -225,11 +225,11 @@ body {
       <p>  
   <li>Reuel Anwar - Masters Student </li>
   <ul>
-    <li>Reuel joined the lab in spring 2026. Reuel is currently working on population genetics of invasive round goby. He is identifying genetic differences between Lake Michigan and Illinois River populations. </li>
+  <li>Reuel joined the lab in spring 2026. Reuel is currently working on population genetics of invasive round goby. He is identifying genetic differences between Lake Michigan and Illinois River populations. </li>
    </ul> 
    </p>
 
-     <p>Former lab members: </p>
+     <p><strong>Former lab members:</strong> </p>
   <ul>
     <!-- Paula (image left, text right) -->
   <div class="two-column" style="display: flex; gap: 20px; margin-top: 30px; align-items: center;">
@@ -248,12 +248,9 @@ body {
    <p> </p>
     <p> </p>
      <p> </p>
-   <p>Future lab members: </p>
+   <p><strong>Future lab members:</strong> </p>
   <ul>
-    <li>I am accepting Ph.D. and Masters Students for fall 2026 </li>
-     <ul>
-         <li>If you are interested in joining my lab, please email me with your CV and a paragraph about your interests related to my work. </li>
-     </ul>  
+         <li>If you are interested in joining my lab as an undergraduate or graduate students, please email me with your CV and a paragraph about your interests related to my work. </li> 
   </ul>
 
 
