@@ -229,7 +229,7 @@ body {
   3) Invasive round goby population dynamics in the Great Lakes region.<br></p>
   <p>IIT is in the heart of Chicago and the historic Bronzeville neighborhood. The Biology department is located a short walk from L stops on the Red and Green lines.  My lab also has an affilieation with the Field Museum, allowing access to collection and molecular lab space.</p>  
   <p>If you are interested in the above topics (in fishes or other organisms), or in topics related to my previously published papers, please reach out with a brief description of your interests and a CV.</p>
-  <p>For general information about applying to grad programs in Ecology and Evolution see:<a href="[https://link.springer.com/article/10.1007/s10641-025-01686-8](https://applyingtoeeb.info/)" 
+  <p>For general information about applying to grad programs in Ecology and Evolution see:<a href="https://applyingtoeeb.info/" 
    title="(https://applyingtoeeb.info/)" 
    target="_blank" 
    rel="noopener noreferrer">(https://applyingtoeeb.info/)</a>.</p>
